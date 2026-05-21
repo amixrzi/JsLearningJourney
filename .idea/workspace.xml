@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement: connect JS to HTML">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement: values and variables">
+      <change afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/02-data-types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Fundamentals-Part-1/01-values-variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/01-values-variables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Fundamentals-Part-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="3Dz0tWZ4vkW3iF4ZHbhYdz2mhOG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,6 +36,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "disable.download.node.interpreter.editor.notification": "true",
     "git-widget-placeholder": "master",
@@ -67,7 +69,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1779269806861</updated>
-      <workItem from="1779269808147" duration="5160000" />
+      <workItem from="1779269808147" duration="6124000" />
+      <workItem from="1779388611211" duration="1491000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -93,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779273722332</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Implement: values and variables">
+      <option name="closed" value="true" />
+      <created>1779275158224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779275158224</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +125,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Implement basic html file" />
     <MESSAGE value="Implement: connect JS to HTML" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement: connect JS to HTML" />
+    <MESSAGE value="Implement: values and variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement: values and variables" />
   </component>
 </project>
