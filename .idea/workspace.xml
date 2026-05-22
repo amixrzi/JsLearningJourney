@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement data types">
-      <change afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/03-let-const-var.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement let, const and var">
+      <change afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/04-operators.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01-Fundamentals-Part-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/index.html" afterDir="false" />
     </list>
@@ -71,7 +71,7 @@
       <updated>1779269806861</updated>
       <workItem from="1779269808147" duration="6124000" />
       <workItem from="1779388611211" duration="1890000" />
-      <workItem from="1779460548056" duration="872000" />
+      <workItem from="1779460548056" duration="4424000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -113,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779390562785</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Implement let, const and var">
+      <option name="closed" value="true" />
+      <created>1779462060633</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1779462060633</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +146,7 @@
     <MESSAGE value="Implement data types" />
     <MESSAGE value="Implement values and variables" />
     <MESSAGE value="Implement js connection to html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement js connection to html" />
+    <MESSAGE value="Implement let, const and var" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement let, const and var" />
   </component>
 </project>
