@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement strings and template literals">
-      <change afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/07-if-else.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement if else statement">
+      <change afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/08-challenge-02.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01-Fundamentals-Part-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/index.html" afterDir="false" />
     </list>
@@ -80,7 +80,7 @@
       <workItem from="1779388611211" duration="1890000" />
       <workItem from="1779460548056" duration="6347000" />
       <workItem from="1779542052894" duration="3171000" />
-      <workItem from="1779556836911" duration="1441000" />
+      <workItem from="1779556836911" duration="2689000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -154,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779544380474</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Implement if else statement">
+      <option name="closed" value="true" />
+      <created>1779558536569</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1779558536569</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +191,7 @@
     <MESSAGE value="Implement basic operators and operator precedence" />
     <MESSAGE value="Implement challenge #1" />
     <MESSAGE value="Implement strings and template literals" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement strings and template literals" />
+    <MESSAGE value="Implement if else statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement if else statement" />
   </component>
 </project>
