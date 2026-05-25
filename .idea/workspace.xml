@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement type conversion and coercion">
-      <change afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/10-truthy-falsy.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement truthy and falsy values">
+      <change afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/11-equality-operators.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01-Fundamentals-Part-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/index.html" afterDir="false" />
     </list>
@@ -81,7 +81,9 @@
       <workItem from="1779460548056" duration="6347000" />
       <workItem from="1779542052894" duration="3171000" />
       <workItem from="1779556836911" duration="4499000" />
-      <workItem from="1779604252139" duration="1578000" />
+      <workItem from="1779604252139" duration="3448000" />
+      <workItem from="1779624930355" duration="548000" />
+      <workItem from="1779728426843" duration="1363000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -179,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779562674491</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Implement truthy and falsy values">
+      <option name="closed" value="true" />
+      <created>1779606100258</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1779606100258</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +221,7 @@
     <MESSAGE value="Implement if else statement" />
     <MESSAGE value="Implement challenge #2" />
     <MESSAGE value="Implement type conversion and coercion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement type conversion and coercion" />
+    <MESSAGE value="Implement truthy and falsy values" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement truthy and falsy values" />
   </component>
 </project>
