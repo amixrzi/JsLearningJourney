@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement truthy and falsy values">
-      <change afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/11-equality-operators.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement equality operators">
+      <change afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/12-logical-operators.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01-Fundamentals-Part-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/index.html" afterDir="false" />
     </list>
@@ -83,7 +83,8 @@
       <workItem from="1779556836911" duration="4499000" />
       <workItem from="1779604252139" duration="3448000" />
       <workItem from="1779624930355" duration="548000" />
-      <workItem from="1779728426843" duration="1363000" />
+      <workItem from="1779728426843" duration="2556000" />
+      <workItem from="1779823991527" duration="941000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -189,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779606100258</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Implement equality operators">
+      <option name="closed" value="true" />
+      <created>1779733890726</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1779733890726</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +231,7 @@
     <MESSAGE value="Implement challenge #2" />
     <MESSAGE value="Implement type conversion and coercion" />
     <MESSAGE value="Implement truthy and falsy values" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement truthy and falsy values" />
+    <MESSAGE value="Implement equality operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement equality operators" />
   </component>
 </project>
