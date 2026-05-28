@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement logical operators">
-      <change afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/13-challenge-03.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Fundamentals-Part-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement challenge #3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +81,7 @@
       <workItem from="1779624930355" duration="548000" />
       <workItem from="1779728426843" duration="2556000" />
       <workItem from="1779823991527" duration="1083000" />
-      <workItem from="1779911171224" duration="891000" />
+      <workItem from="1779911171224" duration="987000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -207,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779824964571</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Implement challenge #3">
+      <option name="closed" value="true" />
+      <created>1779912156341</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1779912156341</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +246,7 @@
     <MESSAGE value="Implement truthy and falsy values" />
     <MESSAGE value="Implement equality operators" />
     <MESSAGE value="Implement logical operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement logical operators" />
+    <MESSAGE value="Implement challenge #3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement challenge #3" />
   </component>
 </project>
