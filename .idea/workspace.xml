@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement challenge #4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement basic html file">
+      <change afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/01-strict-mode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Fundamentals-Part-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,27 +34,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;disable.download.node.interpreter.editor.notification&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/js-learning-journey/01-Fundamentals-Part-1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "disable.download.node.interpreter.editor.notification": "true",
+    "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "D:/js-learning-journey/02-Fundamentals-Part-2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\js-learning-journey\02-Fundamentals-Part-2" />
       <recent name="D:\js-learning-journey\01-Fundamentals-Part-1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -87,7 +89,7 @@
       <workItem from="1779995433003" duration="247000" />
       <workItem from="1780851935483" duration="4727000" />
       <workItem from="1780922281248" duration="10000" />
-      <workItem from="1780937254088" duration="849000" />
+      <workItem from="1780937254088" duration="2268000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -241,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780857402078</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Implement basic html file">
+      <option name="closed" value="true" />
+      <created>1780939459825</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1780939459825</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,7 +270,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <MESSAGE value="Implement basic html file" />
     <MESSAGE value="Implement js connection to html" />
     <MESSAGE value="Implement values and variables" />
     <MESSAGE value="Implement data types" />
@@ -280,6 +289,7 @@
     <MESSAGE value="Implement switch statement" />
     <MESSAGE value="Implement conditional Ternary Operator" />
     <MESSAGE value="Implement challenge #4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement challenge #4" />
+    <MESSAGE value="Implement basic html file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement basic html file" />
   </component>
 </project>
