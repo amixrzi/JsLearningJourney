@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement conditional Ternary Operator">
-      <change afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/16-challenge-04.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Fundamentals-Part-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/index.html" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement challenge #4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +85,9 @@
       <workItem from="1779823991527" duration="1083000" />
       <workItem from="1779911171224" duration="987000" />
       <workItem from="1779995433003" duration="247000" />
-      <workItem from="1780851935483" duration="4599000" />
+      <workItem from="1780851935483" duration="4727000" />
+      <workItem from="1780922281248" duration="10000" />
+      <workItem from="1780937254088" duration="849000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -232,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780856449492</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Implement challenge #4">
+      <option name="closed" value="true" />
+      <created>1780857402078</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1780857402078</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,6 +279,7 @@
     <MESSAGE value="Implement challenge #3" />
     <MESSAGE value="Implement switch statement" />
     <MESSAGE value="Implement conditional Ternary Operator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement conditional Ternary Operator" />
+    <MESSAGE value="Implement challenge #4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement challenge #4" />
   </component>
 </project>
