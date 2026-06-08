@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement basic html file">
-      <change afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/01-strict-mode.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement strict mode">
+      <change afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/02-function.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/02-Fundamentals-Part-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +89,7 @@
       <workItem from="1779995433003" duration="247000" />
       <workItem from="1780851935483" duration="4727000" />
       <workItem from="1780922281248" duration="10000" />
-      <workItem from="1780937254088" duration="2268000" />
+      <workItem from="1780937254088" duration="3877000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -251,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780939459825</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Implement strict mode">
+      <option name="closed" value="true" />
+      <created>1780941960145</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1780941960145</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,6 +298,7 @@
     <MESSAGE value="Implement conditional Ternary Operator" />
     <MESSAGE value="Implement challenge #4" />
     <MESSAGE value="Implement basic html file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement basic html file" />
+    <MESSAGE value="Implement strict mode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement strict mode" />
   </component>
 </project>
