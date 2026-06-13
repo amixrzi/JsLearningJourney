@@ -4,7 +4,7 @@
 const friends = ['Nima', 'Matin', 'Alireza'];
 
 // Add elements
-const newLength =friends.push('Mobina');
+const newLength = friends.push('Mobina');
 console.log(friends);
 console.log(newLength);
 
@@ -28,7 +28,7 @@ console.log(friends.includes('Nima'));
 console.log(friends.includes('Reze'));
 console.log(friends.includes(23));
 
-if (friends.includes('Mobina')){
+if (friends.includes('Mobina')) {
     console.log('you have a friend called Mobina');
 } else {
     console.log('you have not a friend called Mobina');

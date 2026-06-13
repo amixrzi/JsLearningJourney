@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement arrays">
-      <change afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/09-array-operations.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement array operations">
+      <change afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/10-challenge-02.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Fundamentals-Part-2/07-callenge-01.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/07-challenge-01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Fundamentals-Part-2/09-array-operations.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/09-array-operations.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/02-Fundamentals-Part-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +105,9 @@
       <workItem from="1781124878760" duration="394000" />
       <workItem from="1781194431079" duration="5575000" />
       <workItem from="1781253025999" duration="4714000" />
-      <workItem from="1781277765825" duration="4852000" />
+      <workItem from="1781277765825" duration="5240000" />
+      <workItem from="1781289282874" duration="206000" />
+      <workItem from="1781368084923" duration="2092000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -329,7 +333,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781281060576</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Implement array operations">
+      <option name="closed" value="true" />
+      <created>1781288600930</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1781288600930</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,7 +359,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement values and variables" />
     <MESSAGE value="Implement js connection to html" />
     <MESSAGE value="Implement let, const and var" />
     <MESSAGE value="Implement basic operators and operator precedence" />
@@ -372,6 +383,7 @@
     <MESSAGE value="Implement review functions" />
     <MESSAGE value="Implement coding challenge #1" />
     <MESSAGE value="Implement arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement arrays" />
+    <MESSAGE value="Implement array operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement array operations" />
   </component>
 </project>
