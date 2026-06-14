@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement coding challenge #2">
-      <change afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/11-objects.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement objects">
+      <change afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/12-dot-vs-bracket-notation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Fundamentals-Part-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +105,8 @@
       <workItem from="1781253025999" duration="4714000" />
       <workItem from="1781277765825" duration="5240000" />
       <workItem from="1781289282874" duration="206000" />
-      <workItem from="1781368084923" duration="2971000" />
+      <workItem from="1781368084923" duration="3080000" />
+      <workItem from="1781458164143" duration="4722000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -345,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781371168994</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Implement objects">
+      <option name="closed" value="true" />
+      <created>1781372071485</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1781372071485</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -363,7 +374,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement let, const and var" />
     <MESSAGE value="Implement basic operators and operator precedence" />
     <MESSAGE value="Implement challenge #1" />
     <MESSAGE value="Implement strings and template literals" />
@@ -388,6 +398,7 @@
     <MESSAGE value="Implement arrays" />
     <MESSAGE value="Implement array operations" />
     <MESSAGE value="Implement coding challenge #2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement coding challenge #2" />
+    <MESSAGE value="Implement objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement objects" />
   </component>
 </project>
