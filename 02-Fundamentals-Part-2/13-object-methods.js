@@ -7,7 +7,7 @@ const amir = {
     birthYeah: 2007,
     job: 'student',
     friends: ['Nima', 'Matin', 'Alireza'],
-    hasDriversLicense: true,
+    hasDriversLicense: false,
 
     // calcAge: function (birthYeah) {
     //   return 2037 - birthYeah;
