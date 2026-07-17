@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement read me">
-      <change afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/14-challenge-03.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Fix bug challenge 3">
+      <change afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/15-for-loop.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Fundamentals-Part-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +39,10 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "ff0000ff",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;ff0000ff&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="3Dz0tWZ4vkW3iF4ZHbhYdz2mhOG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -124,7 +125,8 @@
       <workItem from="1783880967908" duration="4000" />
       <workItem from="1783961158916" duration="154000" />
       <workItem from="1783961329266" duration="138000" />
-      <workItem from="1784223160405" duration="2648000" />
+      <workItem from="1784223160405" duration="4854000" />
+      <workItem from="1784312249643" duration="1494000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -390,7 +392,23 @@
       <option name="project" value="LOCAL" />
       <updated>1781551779959</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Implement coding challenge 3">
+      <option name="closed" value="true" />
+      <created>1784227632237</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1784227632237</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Fix bug challenge 3">
+      <option name="closed" value="true" />
+      <created>1784227683703</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1784227683703</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,8 +426,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement strings and template literals" />
-    <MESSAGE value="Implement if else statement" />
     <MESSAGE value="Implement challenge #2" />
     <MESSAGE value="Implement type conversion and coercion" />
     <MESSAGE value="Implement truthy and falsy values" />
@@ -433,6 +449,8 @@
     <MESSAGE value="Implement objects" />
     <MESSAGE value="Implement dot vs bracket notation" />
     <MESSAGE value="Implement object methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement object methods" />
+    <MESSAGE value="Implement coding challenge 3" />
+    <MESSAGE value="Fix bug challenge 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix bug challenge 3" />
   </component>
 </project>
