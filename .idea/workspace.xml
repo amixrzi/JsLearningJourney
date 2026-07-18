@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement looping backwards">
-      <change afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/18-while-loop.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement while loop">
+      <change afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/19-challenge-04.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/02-Fundamentals-Part-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/index.html" afterDir="false" />
     </list>
@@ -128,7 +128,7 @@
       <workItem from="1783961329266" duration="138000" />
       <workItem from="1784223160405" duration="4854000" />
       <workItem from="1784312249643" duration="4925000" />
-      <workItem from="1784383975952" duration="5430000" />
+      <workItem from="1784383975952" duration="7839000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -434,7 +434,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784399574212</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Implement while loop">
+      <option name="closed" value="true" />
+      <created>1784401475815</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1784401475815</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,7 +460,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement equality operators" />
     <MESSAGE value="Implement logical operators" />
     <MESSAGE value="Implement challenge #3" />
     <MESSAGE value="Implement switch statement" />
@@ -477,6 +484,7 @@
     <MESSAGE value="Implement for loop" />
     <MESSAGE value="Implement looping array" />
     <MESSAGE value="Implement looping backwards" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement looping backwards" />
+    <MESSAGE value="Implement while loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement while loop" />
   </component>
 </project>
