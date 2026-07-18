@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Fix bug challenge 3">
-      <change afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/15-for-loop.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement for loop">
+      <change afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/16-looping-arrays.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/02-Fundamentals-Part-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/index.html" afterDir="false" />
     </list>
@@ -72,6 +72,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\js-learning-journey" />
       <recent name="D:\js-learning-journey\02-Fundamentals-Part-2" />
       <recent name="D:\js-learning-journey\01-Fundamentals-Part-1" />
     </key>
@@ -126,7 +127,8 @@
       <workItem from="1783961158916" duration="154000" />
       <workItem from="1783961329266" duration="138000" />
       <workItem from="1784223160405" duration="4854000" />
-      <workItem from="1784312249643" duration="1494000" />
+      <workItem from="1784312249643" duration="4925000" />
+      <workItem from="1784383975952" duration="1708000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -408,7 +410,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784227683703</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Implement for loop">
+      <option name="closed" value="true" />
+      <created>1784314067858</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1784314067858</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,7 +436,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement challenge #2" />
     <MESSAGE value="Implement type conversion and coercion" />
     <MESSAGE value="Implement truthy and falsy values" />
     <MESSAGE value="Implement equality operators" />
@@ -451,6 +460,7 @@
     <MESSAGE value="Implement object methods" />
     <MESSAGE value="Implement coding challenge 3" />
     <MESSAGE value="Fix bug challenge 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix bug challenge 3" />
+    <MESSAGE value="Implement for loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement for loop" />
   </component>
 </project>
