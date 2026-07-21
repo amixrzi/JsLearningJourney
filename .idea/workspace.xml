@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement temperatures range calculation">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement debugging">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03-Developer-Skills/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-Developer-Skills/script.js" afterDir="false" />
     </list>
@@ -138,7 +138,8 @@
       <workItem from="1784478575206" duration="630000" />
       <workItem from="1784541743750" duration="2723000" />
       <workItem from="1784569499352" duration="1370000" />
-      <workItem from="1784650353690" duration="1216000" />
+      <workItem from="1784650353690" duration="1853000" />
+      <workItem from="1784660388536" duration="2988000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -476,7 +477,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784543702905</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Implement debugging">
+      <option name="closed" value="true" />
+      <created>1784651610438</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1784651610438</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,7 +503,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement conditional Ternary Operator" />
     <MESSAGE value="Implement challenge #4" />
     <MESSAGE value="Implement basic html file" />
     <MESSAGE value="Implement strict mode" />
@@ -519,6 +527,7 @@
     <MESSAGE value="Implement coding challenge 4" />
     <MESSAGE value="Implement prettier" />
     <MESSAGE value="Implement temperatures range calculation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement temperatures range calculation" />
+    <MESSAGE value="Implement debugging" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement debugging" />
   </component>
 </project>
