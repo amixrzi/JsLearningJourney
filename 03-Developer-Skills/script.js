@@ -112,17 +112,54 @@
 
 ///////////////////////////////////////
 // Coding Challenge #1
-// Example: [17, 21, 23] will print "... 17ºC in 1 days ... 21ºC in 2 days ... 23ºC in 3 days ...";
 
-const data1 = [17, 21, 23];
-const data2 = [12, 5, -5, 0, 4];
+// const data1 = [17, 21, 23];
+// const data2 = [12, 5, -5, 0, 4];
+//
+// const printForecast = function (arr) {
+//   let str = '';
+//   for (let i = 1; i < arr.length; i++) {
+//     str += `${arr[i - 1]}ºC ins ${i} days ... `;
+//   }
+//   console.log('...', str);
+// };
+// printForecast(data1);
+// printForecast(data2);
 
-const printForecast = function (arr) {
-  let str = '';
-  for (let i = 1; i < arr.length; i++) {
-    str += `${arr[i - 1]}ºC ins ${i} days ... `;
+///////////////////////////////////////
+// Coding Challenge #2 With AI
+
+function analyzeWorkWeek(hours) {
+  if (!Array.isArray(hours) || hours.length !== 7) {
+    throw new Error(
+      'Input must be an array containing exactly 7 daily work hours.',
+    );
   }
-  console.log('...', str);
-};
-printForecast(data1);
-printForecast(data2);
+
+  const days = [
+    'Monday',
+    'Tuesday',
+    'Wednesday',
+    'Thursday',
+    'Friday',
+    'Saturday',
+    'Sunday',
+  ];
+
+  const totalHours = hours.reduce((sum, day) => sum + day, 0);
+  const averageHours = Number((totalHours / hours.length).toFixed(1));
+  const busiestDay = days[hours.indexOf(Math.max(...hours))];
+  const daysWorked = hours.filter(day => day > 0).length;
+  const fullTime = totalHours >= 35;
+
+  return {
+    totalHours,
+    averageHours,
+    busiestDay,
+    daysWorked,
+    fullTime,
+  };
+}
+
+// Example
+console.log(analyzeWorkWeek([8, 7.5, 8, 6, 5, 10, 9]));
