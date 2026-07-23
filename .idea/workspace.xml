@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement coding challenge 1">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement coding challenge 2 with ai">
+      <change afterPath="$PROJECT_DIR$/04-HTML-CSS/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-Developer-Skills/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-Developer-Skills/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Developer-Skills/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-Developer-Skills/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +81,7 @@
       <recent name="D:\js-learning-journey\01-Fundamentals-Part-1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\js-learning-journey\04-HTML-CSS" />
       <recent name="D:\js-learning-journey\03-Developer-Skills" />
       <recent name="D:\js-learning-journey\01-Fundamentals-Part-1" />
     </key>
@@ -140,7 +142,8 @@
       <workItem from="1784569499352" duration="1370000" />
       <workItem from="1784650353690" duration="1853000" />
       <workItem from="1784660388536" duration="3858000" />
-      <workItem from="1784736864503" duration="566000" />
+      <workItem from="1784736864503" duration="727000" />
+      <workItem from="1784820420258" duration="222000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -494,7 +497,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784663692160</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Implement coding challenge 2 with ai">
+      <option name="closed" value="true" />
+      <created>1784737452272</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1784737452272</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,7 +523,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement basic html file" />
     <MESSAGE value="Implement strict mode" />
     <MESSAGE value="Implement functions" />
     <MESSAGE value="Implement function expressions" />
@@ -537,6 +547,7 @@
     <MESSAGE value="Implement temperatures range calculation" />
     <MESSAGE value="Implement debugging" />
     <MESSAGE value="Implement coding challenge 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement coding challenge 1" />
+    <MESSAGE value="Implement coding challenge 2 with ai" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement coding challenge 2 with ai" />
   </component>
 </project>
