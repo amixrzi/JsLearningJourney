@@ -1,0 +1,17 @@
+body {
+    background-color: ivory;
+    font-family: Arial;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.first {
+    color: brown;
+}
+
+#your-name {
+    background-color: darkgray;
+    border: 5px solid #575555;
+}
