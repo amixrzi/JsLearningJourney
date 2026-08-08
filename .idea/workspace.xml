@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement external CSS for basic styling">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement box model styling">
+      <change afterPath="$PROJECT_DIR$/05-Guess-My-Number/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-Guess-My-Number/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-Guess-My-Number/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-Guess-My-Number/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-HTML-CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/04-HTML-CSS/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +85,7 @@
       <recent name="D:\js-learning-journey\01-Fundamentals-Part-1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\js-learning-journey\05-Guess-My-Number" />
       <recent name="D:\js-learning-journey\04-HTML-CSS" />
       <recent name="D:\js-learning-journey\03-Developer-Skills" />
       <recent name="D:\js-learning-journey\01-Fundamentals-Part-1" />
@@ -148,7 +152,11 @@
       <workItem from="1785007770035" duration="2338000" />
       <workItem from="1785014384570" duration="601000" />
       <workItem from="1785095271609" duration="2267000" />
-      <workItem from="1785177474069" duration="2007000" />
+      <workItem from="1785177474069" duration="3328000" />
+      <workItem from="1785239698894" duration="23000" />
+      <workItem from="1785241306329" duration="8000" />
+      <workItem from="1785242537864" duration="494000" />
+      <workItem from="1786221812608" duration="661000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -534,7 +542,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785097222566</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Implement box model styling">
+      <option name="closed" value="true" />
+      <created>1785179705914</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1785179705914</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -552,7 +568,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement arrow functions" />
     <MESSAGE value="Implement calling functions" />
     <MESSAGE value="Implement review functions" />
     <MESSAGE value="Implement coding challenge #1" />
@@ -577,6 +592,7 @@
     <MESSAGE value="Implement basic HTML structure" />
     <MESSAGE value="Implement HTML attributes" />
     <MESSAGE value="Implement external CSS for basic styling" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement external CSS for basic styling" />
+    <MESSAGE value="Implement box model styling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement box model styling" />
   </component>
 </project>
