@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement box model styling">
-      <change afterPath="$PROJECT_DIR$/05-Guess-My-Number/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-Guess-My-Number/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-Guess-My-Number/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-Guess-My-Number/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Guess-My-Number/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Guess-My-Number/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-Guess-My-Number/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,6 +155,8 @@
       <workItem from="1785241306329" duration="8000" />
       <workItem from="1785242537864" duration="494000" />
       <workItem from="1786221812608" duration="661000" />
+      <workItem from="1786224239702" duration="589000" />
+      <workItem from="1786303448185" duration="1203000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
