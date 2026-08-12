@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement box model styling">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement selecting and manipulating elements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-Guess-My-Number/.prettierrc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/05-Guess-My-Number/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-Guess-My-Number/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,15 +155,8 @@
       <workItem from="1785242537864" duration="494000" />
       <workItem from="1786221812608" duration="661000" />
       <workItem from="1786224239702" duration="589000" />
-      <workItem from="1786303448185" duration="1203000" />
-    </task>
-    <task id="LOCAL-00001" summary="Initial commit">
-      <option name="closed" value="true" />
-      <created>1779271028367</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1779271028367</updated>
+      <workItem from="1786303448185" duration="1266000" />
+      <workItem from="1786569930460" duration="1034000" />
     </task>
     <task id="LOCAL-00002" summary="Implement basic html file">
       <option name="closed" value="true" />
@@ -550,7 +542,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785179705914</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Implement selecting and manipulating elements">
+      <option name="closed" value="true" />
+      <created>1786304706480</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1786304706481</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +568,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement calling functions" />
     <MESSAGE value="Implement review functions" />
     <MESSAGE value="Implement coding challenge #1" />
     <MESSAGE value="Implement arrays" />
@@ -593,6 +592,7 @@
     <MESSAGE value="Implement HTML attributes" />
     <MESSAGE value="Implement external CSS for basic styling" />
     <MESSAGE value="Implement box model styling" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement box model styling" />
+    <MESSAGE value="Implement selecting and manipulating elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement selecting and manipulating elements" />
   </component>
 </project>
