@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement Game logic">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement manipulating CSS style">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/05-Guess-My-Number/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-Guess-My-Number/script.js" afterDir="false" />
     </list>
@@ -157,15 +157,7 @@
       <workItem from="1786224239702" duration="589000" />
       <workItem from="1786303448185" duration="1266000" />
       <workItem from="1786569930460" duration="1294000" />
-      <workItem from="1787247523918" duration="3243000" />
-    </task>
-    <task id="LOCAL-00004" summary="Implement: values and variables">
-      <option name="closed" value="true" />
-      <created>1779275158224</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1779275158224</updated>
+      <workItem from="1787247523918" duration="4817000" />
     </task>
     <task id="LOCAL-00005" summary="Implement data types">
       <option name="closed" value="true" />
@@ -551,7 +543,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787250131774</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Implement manipulating CSS style">
+      <option name="closed" value="true" />
+      <created>1787251108915</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1787251108915</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,7 +569,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement arrays" />
     <MESSAGE value="Implement array operations" />
     <MESSAGE value="Implement coding challenge #2" />
     <MESSAGE value="Implement objects" />
@@ -594,6 +593,7 @@
     <MESSAGE value="Implement selecting and manipulating elements" />
     <MESSAGE value="Implement Handling click events" />
     <MESSAGE value="Implement Game logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement Game logic" />
+    <MESSAGE value="Implement manipulating CSS style" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement manipulating CSS style" />
   </component>
 </project>
