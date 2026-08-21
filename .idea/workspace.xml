@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement manipulating CSS style">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement challenge 01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/05-Guess-My-Number/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-Guess-My-Number/script.js" afterDir="false" />
     </list>
@@ -157,15 +157,8 @@
       <workItem from="1786224239702" duration="589000" />
       <workItem from="1786303448185" duration="1266000" />
       <workItem from="1786569930460" duration="1294000" />
-      <workItem from="1787247523918" duration="4817000" />
-    </task>
-    <task id="LOCAL-00005" summary="Implement data types">
-      <option name="closed" value="true" />
-      <created>1779390562783</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1779390562785</updated>
+      <workItem from="1787247523918" duration="5222000" />
+      <workItem from="1787335681369" duration="669000" />
     </task>
     <task id="LOCAL-00006" summary="Implement let, const and var">
       <option name="closed" value="true" />
@@ -551,7 +544,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787251108915</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Implement challenge 01">
+      <option name="closed" value="true" />
+      <created>1787252807940</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1787252807940</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,9 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement array operations" />
-    <MESSAGE value="Implement coding challenge #2" />
-    <MESSAGE value="Implement objects" />
     <MESSAGE value="Implement dot vs bracket notation" />
     <MESSAGE value="Implement object methods" />
     <MESSAGE value="Implement coding challenge 3" />
@@ -591,9 +589,12 @@
     <MESSAGE value="Implement external CSS for basic styling" />
     <MESSAGE value="Implement box model styling" />
     <MESSAGE value="Implement selecting and manipulating elements" />
-    <MESSAGE value="Implement Handling click events" />
-    <MESSAGE value="Implement Game logic" />
+    <MESSAGE value="Implement handling click events" />
+    <MESSAGE value="Implement game logic" />
     <MESSAGE value="Implement manipulating CSS style" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement manipulating CSS style" />
+    <MESSAGE value="Implement challenge 01" />
+    <MESSAGE value="Implement game logic" />
+    <MESSAGE value="Implement handling click events" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement handling click events" />
   </component>
 </project>
