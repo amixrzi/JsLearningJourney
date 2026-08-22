@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement challenge 01">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement high score">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/05-Guess-My-Number/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-Guess-My-Number/script.js" afterDir="false" />
     </list>
@@ -158,15 +158,8 @@
       <workItem from="1786303448185" duration="1266000" />
       <workItem from="1786569930460" duration="1294000" />
       <workItem from="1787247523918" duration="5222000" />
-      <workItem from="1787335681369" duration="669000" />
-    </task>
-    <task id="LOCAL-00006" summary="Implement let, const and var">
-      <option name="closed" value="true" />
-      <created>1779462060633</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1779462060633</updated>
+      <workItem from="1787335681369" duration="930000" />
+      <workItem from="1787423026528" duration="1704000" />
     </task>
     <task id="LOCAL-00007" summary="Implement basic operators and operator precedence">
       <option name="closed" value="true" />
@@ -552,7 +545,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787252807940</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Implement high score">
+      <option name="closed" value="true" />
+      <created>1787336591090</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1787336591094</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,7 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement dot vs bracket notation" />
     <MESSAGE value="Implement object methods" />
     <MESSAGE value="Implement coding challenge 3" />
     <MESSAGE value="Fix bug challenge 3" />
@@ -595,6 +595,7 @@
     <MESSAGE value="Implement challenge 01" />
     <MESSAGE value="Implement game logic" />
     <MESSAGE value="Implement handling click events" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement handling click events" />
+    <MESSAGE value="Implement high score" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement high score" />
   </component>
 </project>
