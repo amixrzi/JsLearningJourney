@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement refactoring code">
-      <change afterPath="$PROJECT_DIR$/06-Modal/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-Modal/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-Modal/style.css" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement setup project and add starter HTML/CSS files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Modal/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-Modal/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +82,7 @@
       <recent name="D:\js-learning-journey\01-Fundamentals-Part-1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\js-learning-journey\06-Modal" />
       <recent name="D:\js-learning-journey\05-Guess-My-Number" />
       <recent name="D:\js-learning-journey\04-HTML-CSS" />
       <recent name="D:\js-learning-journey\03-Developer-Skills" />
@@ -162,15 +161,8 @@
       <workItem from="1787247523918" duration="5222000" />
       <workItem from="1787335681369" duration="930000" />
       <workItem from="1787423026528" duration="1821000" />
-      <workItem from="1787512164048" duration="710000" />
-    </task>
-    <task id="LOCAL-00008" summary="Implement challenge #1">
-      <option name="closed" value="true" />
-      <created>1779473741823</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1779473741823</updated>
+      <workItem from="1787512164048" duration="823000" />
+      <workItem from="1787600788620" duration="997000" />
     </task>
     <task id="LOCAL-00009" summary="Implement strings and template literals">
       <option name="closed" value="true" />
@@ -556,7 +548,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787424849310</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Implement setup project and add starter HTML/CSS files">
+      <option name="closed" value="true" />
+      <created>1787514669979</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1787514669980</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,7 +574,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement coding challenge 3" />
     <MESSAGE value="Fix bug challenge 3" />
     <MESSAGE value="Implement for loop" />
     <MESSAGE value="Implement looping array" />
@@ -599,6 +598,7 @@
     <MESSAGE value="Implement handling click events" />
     <MESSAGE value="Implement high score" />
     <MESSAGE value="Implement refactoring code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement refactoring code" />
+    <MESSAGE value="Implement setup project and add starter HTML/CSS files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement setup project and add starter HTML/CSS files" />
   </component>
 </project>
