@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement DOM element selection">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement modal open and close functionality">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/06-Modal/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-Modal/script.js" afterDir="false" />
     </list>
@@ -163,15 +163,8 @@
       <workItem from="1787423026528" duration="1821000" />
       <workItem from="1787512164048" duration="823000" />
       <workItem from="1787600788620" duration="1103000" />
-      <workItem from="1787678403399" duration="4187000" />
-    </task>
-    <task id="LOCAL-00010" summary="Implement if else statement">
-      <option name="closed" value="true" />
-      <created>1779558536569</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1779558536569</updated>
+      <workItem from="1787678403399" duration="5709000" />
+      <workItem from="1787772844185" duration="652000" />
     </task>
     <task id="LOCAL-00011" summary="Implement challenge #2">
       <option name="closed" value="true" />
@@ -557,7 +550,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787602141992</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Implement modal open and close functionality">
+      <option name="closed" value="true" />
+      <created>1787683666235</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1787683666236</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -575,7 +576,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement for loop" />
     <MESSAGE value="Implement looping array" />
     <MESSAGE value="Implement looping backwards" />
     <MESSAGE value="Implement while loop" />
@@ -600,6 +600,7 @@
     <MESSAGE value="Implement refactoring code" />
     <MESSAGE value="Implement setup project and add starter HTML/CSS files" />
     <MESSAGE value="Implement DOM element selection" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement DOM element selection" />
+    <MESSAGE value="Implement modal open and close functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement modal open and close functionality" />
   </component>
 </project>
