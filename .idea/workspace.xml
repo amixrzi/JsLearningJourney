@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement setup project and add starter HTML/CSS files">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement selecting elements and starting conditions">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07-Pig-Game/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-Pig-Game/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-Pig-Game/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/07-Pig-Game/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,15 +165,8 @@
       <workItem from="1787600788620" duration="1103000" />
       <workItem from="1787678403399" duration="5709000" />
       <workItem from="1787772844185" duration="1744000" />
-      <workItem from="1787859405556" duration="1935000" />
-    </task>
-    <task id="LOCAL-00013" summary="Implement truthy and falsy values">
-      <option name="closed" value="true" />
-      <created>1779606100258</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1779606100258</updated>
+      <workItem from="1787859405556" duration="2060000" />
+      <workItem from="1787937262026" duration="1521000" />
     </task>
     <task id="LOCAL-00014" summary="Implement equality operators">
       <option name="closed" value="true" />
@@ -559,7 +552,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787860149871</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Implement selecting elements and starting conditions">
+      <option name="closed" value="true" />
+      <created>1787862170383</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1787862170383</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -577,7 +578,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement looping backwards" />
     <MESSAGE value="Implement while loop" />
     <MESSAGE value="Implement coding challenge 4" />
     <MESSAGE value="Implement prettier" />
@@ -602,6 +602,7 @@
     <MESSAGE value="Implement modal open and close functionality" />
     <MESSAGE value="Implement modal close whit Escape key" />
     <MESSAGE value="Implement setup project and add starter HTML/CSS files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement setup project and add starter HTML/CSS files" />
+    <MESSAGE value="Implement selecting elements and starting conditions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement selecting elements and starting conditions" />
   </component>
 </project>
