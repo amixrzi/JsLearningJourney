@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement selecting elements and starting conditions">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement rolling the dice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07-Pig-Game/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-Pig-Game/script.js" afterDir="false" />
     </list>
@@ -166,15 +166,7 @@
       <workItem from="1787678403399" duration="5709000" />
       <workItem from="1787772844185" duration="1744000" />
       <workItem from="1787859405556" duration="2060000" />
-      <workItem from="1787937262026" duration="1521000" />
-    </task>
-    <task id="LOCAL-00014" summary="Implement equality operators">
-      <option name="closed" value="true" />
-      <created>1779733890726</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1779733890726</updated>
+      <workItem from="1787937262026" duration="3130000" />
     </task>
     <task id="LOCAL-00015" summary="Implement logical operators">
       <option name="closed" value="true" />
@@ -560,7 +552,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787862170383</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Implement rolling the dice">
+      <option name="closed" value="true" />
+      <created>1787939219304</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1787939219308</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -578,7 +578,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement while loop" />
     <MESSAGE value="Implement coding challenge 4" />
     <MESSAGE value="Implement prettier" />
     <MESSAGE value="Implement temperatures range calculation" />
@@ -603,6 +602,7 @@
     <MESSAGE value="Implement modal close whit Escape key" />
     <MESSAGE value="Implement setup project and add starter HTML/CSS files" />
     <MESSAGE value="Implement selecting elements and starting conditions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement selecting elements and starting conditions" />
+    <MESSAGE value="Implement rolling the dice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement rolling the dice" />
   </component>
 </project>
