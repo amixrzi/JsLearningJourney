@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement rolling the dice">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement switching the active player">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07-Pig-Game/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-Pig-Game/script.js" afterDir="false" />
     </list>
@@ -54,6 +54,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.script.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -166,15 +167,8 @@
       <workItem from="1787678403399" duration="5709000" />
       <workItem from="1787772844185" duration="1744000" />
       <workItem from="1787859405556" duration="2060000" />
-      <workItem from="1787937262026" duration="3130000" />
-    </task>
-    <task id="LOCAL-00015" summary="Implement logical operators">
-      <option name="closed" value="true" />
-      <created>1779824964566</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1779824964571</updated>
+      <workItem from="1787937262026" duration="3457000" />
+      <workItem from="1788031424807" duration="3471000" />
     </task>
     <task id="LOCAL-00016" summary="Implement challenge #3">
       <option name="closed" value="true" />
@@ -560,7 +554,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787939219308</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Implement switching the active player">
+      <option name="closed" value="true" />
+      <created>1787940996752</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1787940996752</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -578,7 +580,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement coding challenge 4" />
     <MESSAGE value="Implement prettier" />
     <MESSAGE value="Implement temperatures range calculation" />
     <MESSAGE value="Implement debugging" />
@@ -603,6 +604,7 @@
     <MESSAGE value="Implement setup project and add starter HTML/CSS files" />
     <MESSAGE value="Implement selecting elements and starting conditions" />
     <MESSAGE value="Implement rolling the dice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement rolling the dice" />
+    <MESSAGE value="Implement switching the active player" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement switching the active player" />
   </component>
 </project>
