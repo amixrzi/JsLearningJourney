@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement switching the active player">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement holding current score and winner detection">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07-Pig-Game/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-Pig-Game/script.js" afterDir="false" />
     </list>
@@ -168,15 +168,8 @@
       <workItem from="1787772844185" duration="1744000" />
       <workItem from="1787859405556" duration="2060000" />
       <workItem from="1787937262026" duration="3457000" />
-      <workItem from="1788031424807" duration="3471000" />
-    </task>
-    <task id="LOCAL-00016" summary="Implement challenge #3">
-      <option name="closed" value="true" />
-      <created>1779912156341</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1779912156341</updated>
+      <workItem from="1788031424807" duration="3602000" />
+      <workItem from="1788109460388" duration="2866000" />
     </task>
     <task id="LOCAL-00017" summary="Implement switch statement">
       <option name="closed" value="true" />
@@ -562,7 +555,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787940996752</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Implement holding current score and winner detection">
+      <option name="closed" value="true" />
+      <created>1788035196777</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1788035196781</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -580,7 +581,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement prettier" />
     <MESSAGE value="Implement temperatures range calculation" />
     <MESSAGE value="Implement debugging" />
     <MESSAGE value="Implement coding challenge 1" />
@@ -605,6 +605,7 @@
     <MESSAGE value="Implement selecting elements and starting conditions" />
     <MESSAGE value="Implement rolling the dice" />
     <MESSAGE value="Implement switching the active player" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement switching the active player" />
+    <MESSAGE value="Implement holding current score and winner detection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement holding current score and winner detection" />
   </component>
 </project>
