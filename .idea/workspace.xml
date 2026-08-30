@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement holding current score and winner detection">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-Pig-Game/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-Pig-Game/script.js" afterDir="false" />
-    </list>
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement resetting the game" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,15 +166,7 @@
       <workItem from="1787859405556" duration="2060000" />
       <workItem from="1787937262026" duration="3457000" />
       <workItem from="1788031424807" duration="3602000" />
-      <workItem from="1788109460388" duration="2866000" />
-    </task>
-    <task id="LOCAL-00017" summary="Implement switch statement">
-      <option name="closed" value="true" />
-      <created>1779995677912</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1779995677912</updated>
+      <workItem from="1788109460388" duration="3212000" />
     </task>
     <task id="LOCAL-00018" summary="Implement conditional Ternary Operator">
       <option name="closed" value="true" />
@@ -563,7 +552,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788035196781</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Implement resetting the game">
+      <option name="closed" value="true" />
+      <created>1788112765032</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1788112765033</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -581,7 +578,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement temperatures range calculation" />
     <MESSAGE value="Implement debugging" />
     <MESSAGE value="Implement coding challenge 1" />
     <MESSAGE value="Implement coding challenge 2 with ai" />
@@ -606,6 +602,7 @@
     <MESSAGE value="Implement rolling the dice" />
     <MESSAGE value="Implement switching the active player" />
     <MESSAGE value="Implement holding current score and winner detection" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement holding current score and winner detection" />
+    <MESSAGE value="Implement resetting the game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement resetting the game" />
   </component>
 </project>
