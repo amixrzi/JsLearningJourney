@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement resetting the game" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement refactoring code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,11 +82,11 @@
       <recent name="D:\js-learning-journey\01-Fundamentals-Part-1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\js-learning-journey\07-Pig-Game\images" />
       <recent name="D:\js-learning-journey\07-Pig-Game" />
       <recent name="D:\js-learning-journey\06-Modal" />
       <recent name="D:\js-learning-journey\05-Guess-My-Number" />
       <recent name="D:\js-learning-journey\04-HTML-CSS" />
-      <recent name="D:\js-learning-journey\03-Developer-Skills" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -166,15 +168,11 @@
       <workItem from="1787859405556" duration="2060000" />
       <workItem from="1787937262026" duration="3457000" />
       <workItem from="1788031424807" duration="3602000" />
-      <workItem from="1788109460388" duration="3212000" />
-    </task>
-    <task id="LOCAL-00018" summary="Implement conditional Ternary Operator">
-      <option name="closed" value="true" />
-      <created>1780856449492</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1780856449492</updated>
+      <workItem from="1788109460388" duration="3496000" />
+      <workItem from="1788199723217" duration="820000" />
+      <workItem from="1788205978971" duration="2095000" />
+      <workItem from="1788369385054" duration="603000" />
+      <workItem from="1788457689181" duration="677000" />
     </task>
     <task id="LOCAL-00019" summary="Implement challenge #4">
       <option name="closed" value="true" />
@@ -560,7 +558,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788112765033</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Implement refactoring code">
+      <option name="closed" value="true" />
+      <created>1788113253312</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1788113253312</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -593,7 +599,6 @@
     <MESSAGE value="Implement game logic" />
     <MESSAGE value="Implement handling click events" />
     <MESSAGE value="Implement high score" />
-    <MESSAGE value="Implement refactoring code" />
     <MESSAGE value="Implement DOM element selection" />
     <MESSAGE value="Implement modal open and close functionality" />
     <MESSAGE value="Implement modal close whit Escape key" />
@@ -603,6 +608,7 @@
     <MESSAGE value="Implement switching the active player" />
     <MESSAGE value="Implement holding current score and winner detection" />
     <MESSAGE value="Implement resetting the game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement resetting the game" />
+    <MESSAGE value="Implement refactoring code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement refactoring code" />
   </component>
 </project>
