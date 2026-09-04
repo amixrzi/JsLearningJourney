@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement setup project and add starter HTML files">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement scoping in practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/08-Behind-the-Scenes/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Behind-the-Scenes/script.js" afterDir="false" />
     </list>
@@ -173,15 +173,8 @@
       <workItem from="1788199723217" duration="820000" />
       <workItem from="1788205978971" duration="2095000" />
       <workItem from="1788369385054" duration="603000" />
-      <workItem from="1788457689181" duration="2160000" />
-    </task>
-    <task id="LOCAL-00020" summary="Implement basic html file">
-      <option name="closed" value="true" />
-      <created>1780939459825</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1780939459825</updated>
+      <workItem from="1788457689181" duration="2343000" />
+      <workItem from="1788551536579" duration="1123000" />
     </task>
     <task id="LOCAL-00021" summary="Implement strict mode">
       <option name="closed" value="true" />
@@ -567,7 +560,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788462030335</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Implement scoping in practice">
+      <option name="closed" value="true" />
+      <created>1788465676389</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1788465676389</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,7 +586,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement coding challenge 1" />
     <MESSAGE value="Implement coding challenge 2 with ai" />
     <MESSAGE value="Implement basic HTML structure" />
     <MESSAGE value="Implement HTML attributes" />
@@ -610,6 +610,7 @@
     <MESSAGE value="Implement resetting the game" />
     <MESSAGE value="Implement refactoring code" />
     <MESSAGE value="Implement setup project and add starter HTML files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement setup project and add starter HTML files" />
+    <MESSAGE value="Implement scoping in practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement scoping in practice" />
   </component>
 </project>
