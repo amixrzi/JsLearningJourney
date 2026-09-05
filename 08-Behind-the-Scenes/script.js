@@ -38,45 +38,81 @@
 ///////////////////////////////////////
 // Hoisting and TDZ in Practice
 
-// Variables
-console.log(me);
-// console.log(job);
-// console.log(year);
+// // Variables
+// console.log(me);
+// // console.log(job);
+// // console.log(year);
+//
+// var me = 'Amir';
+// let job = 'student';
+// const year = 2007;
+//
+// // Functions
+// console.log(addDecl(2, 3));
+// // console.log(addExpr(2, 3));
+// console.log(addArrow);
+// // console.log(addArrow(2, 3));
+//
+// function addDecl(a, b) {
+//   return a + b;
+// }
+//
+// const addExpr = function (a, b) {
+//   return a + b;
+// };
+//
+// var addArrow = (a, b) => a + b;
+//
+// // Example
+// console.log(numProducts);
+// if (!numProducts) deleteShoppingCart();
+//
+// var numProducts = 10;
+//
+// function deleteShoppingCart() {
+//   console.log('All products deleted!');
+// }
+//
+// var x = 1;
+// let y = 2;
+// const z = 3;
+//
+// console.log(x === window.x);
+// console.log(y === window.y);
+// console.log(z === window.z);
 
-var me = 'Amir';
-let job = 'student';
-const year = 2007;
+///////////////////////////////////////
+// The this Keyword in Practice
 
-// Functions
-console.log(addDecl(2, 3));
-// console.log(addExpr(2, 3));
-console.log(addArrow);
-// console.log(addArrow(2, 3));
+console.log(this);
 
-function addDecl(a, b) {
-  return a + b;
-}
-
-const addExpr = function (a, b) {
-  return a + b;
+const calcAge = function (brithYare) {
+  console.log(2026 - brithYare);
+  console.log(this);
 };
+calcAge(2007);
 
-var addArrow = (a, b) => a + b;
+const calcAgeArrow = brithYare => {
+  console.log(2026 - brithYare);
+  console.log(this);
+};
+calcAgeArrow(2006);
 
-// Example
-console.log(numProducts);
-if (!numProducts) deleteShoppingCart();
+const amir = {
+  year: 2007,
+  calcAge: function () {
+    console.log(this);
+    console.log(2026 - this.year);
+  },
+};
+amir.calcAge();
 
-var numProducts = 10;
+const mobina = {
+  year: 2006,
+};
+mobina.calcAge = amir.calcAge;
 
-function deleteShoppingCart() {
-  console.log('All products deleted!');
-}
+mobina.calcAge();
 
-var x = 1;
-let y = 2;
-const z = 3;
-
-console.log(x === window.x);
-console.log(y === window.y);
-console.log(z === window.z);
+const f = amir.calcAge;
+f();

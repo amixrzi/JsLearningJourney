@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement hoisting and TDZ in practice" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement refactoring code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Behind-the-Scenes/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Behind-the-Scenes/script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,15 +174,8 @@
       <workItem from="1788205978971" duration="2095000" />
       <workItem from="1788369385054" duration="603000" />
       <workItem from="1788457689181" duration="2343000" />
-      <workItem from="1788551536579" duration="1530000" />
-    </task>
-    <task id="LOCAL-00022" summary="Implement functions">
-      <option name="closed" value="true" />
-      <created>1780945128780</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1780945128780</updated>
+      <workItem from="1788551536579" duration="2622000" />
+      <workItem from="1788628562010" duration="4213000" />
     </task>
     <task id="LOCAL-00023" summary="Implement function expressions">
       <option name="closed" value="true" />
@@ -565,7 +561,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788553432618</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Implement refactoring code">
+      <option name="closed" value="true" />
+      <created>1788553695638</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1788553695638</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -604,10 +608,10 @@
     <MESSAGE value="Implement switching the active player" />
     <MESSAGE value="Implement holding current score and winner detection" />
     <MESSAGE value="Implement resetting the game" />
-    <MESSAGE value="Implement refactoring code" />
     <MESSAGE value="Implement setup project and add starter HTML files" />
     <MESSAGE value="Implement scoping in practice" />
     <MESSAGE value="Implement hoisting and TDZ in practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement hoisting and TDZ in practice" />
+    <MESSAGE value="Implement refactoring code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement refactoring code" />
   </component>
 </project>
