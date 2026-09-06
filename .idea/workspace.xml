@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement refactoring code">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement the this keyword in practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/08-Behind-the-Scenes/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Behind-the-Scenes/script.js" afterDir="false" />
     </list>
@@ -175,15 +175,8 @@
       <workItem from="1788369385054" duration="603000" />
       <workItem from="1788457689181" duration="2343000" />
       <workItem from="1788551536579" duration="2622000" />
-      <workItem from="1788628562010" duration="4213000" />
-    </task>
-    <task id="LOCAL-00023" summary="Implement function expressions">
-      <option name="closed" value="true" />
-      <created>1781034401615</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1781034401615</updated>
+      <workItem from="1788628562010" duration="5267000" />
+      <workItem from="1788718199050" duration="2073000" />
     </task>
     <task id="LOCAL-00024" summary="Implement arrow functions">
       <option name="closed" value="true" />
@@ -569,7 +562,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788553695638</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Implement the this keyword in practice">
+      <option name="closed" value="true" />
+      <created>1788633510613</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1788633510613</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -587,7 +588,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement basic HTML structure" />
     <MESSAGE value="Implement HTML attributes" />
     <MESSAGE value="Implement external CSS for basic styling" />
     <MESSAGE value="Implement box model styling" />
@@ -612,6 +612,7 @@
     <MESSAGE value="Implement scoping in practice" />
     <MESSAGE value="Implement hoisting and TDZ in practice" />
     <MESSAGE value="Implement refactoring code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement refactoring code" />
+    <MESSAGE value="Implement the this keyword in practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement the this keyword in practice" />
   </component>
 </project>
