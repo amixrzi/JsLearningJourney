@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement regular functions vs. arrow functions">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement object references in practice (shallow vs. deep copies)">
+      <change afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Behind-the-Scenes/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Behind-the-Scenes/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,15 +177,8 @@
       <workItem from="1788551536579" duration="2622000" />
       <workItem from="1788628562010" duration="5267000" />
       <workItem from="1788718199050" duration="3751000" />
-      <workItem from="1788779059031" duration="3212000" />
-    </task>
-    <task id="LOCAL-00025" summary="Implement calling functions">
-      <option name="closed" value="true" />
-      <created>1781197123326</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1781197123326</updated>
+      <workItem from="1788779059031" duration="3901000" />
+      <workItem from="1788796899400" duration="2168000" />
     </task>
     <task id="LOCAL-00026" summary="Implement review functions">
       <option name="closed" value="true" />
@@ -571,7 +564,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788720416521</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Implement object references in practice (shallow vs. deep copies)">
+      <option name="closed" value="true" />
+      <created>1788795352736</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1788795352740</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -589,7 +590,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement external CSS for basic styling" />
     <MESSAGE value="Implement box model styling" />
     <MESSAGE value="Implement selecting and manipulating elements" />
     <MESSAGE value="Implement handling click events" />
@@ -614,6 +614,7 @@
     <MESSAGE value="Implement refactoring code" />
     <MESSAGE value="Implement the this keyword in practice" />
     <MESSAGE value="Implement regular functions vs. arrow functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement regular functions vs. arrow functions" />
+    <MESSAGE value="Implement object references in practice (shallow vs. deep copies)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement object references in practice (shallow vs. deep copies)" />
   </component>
 </project>
