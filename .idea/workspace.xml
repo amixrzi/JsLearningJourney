@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement object references in practice (shallow vs. deep copies)">
-      <change afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement setup project and add starter HTML files">
+      <change afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/01-destructuring-arrays.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -83,11 +84,11 @@
       <recent name="D:\js-learning-journey\01-Fundamentals-Part-1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\js-learning-journey\09-Data-Structures-Operators" />
       <recent name="D:\js-learning-journey\08-Behind-the-Scenes" />
       <recent name="D:\js-learning-journey\07-Pig-Game\images" />
       <recent name="D:\js-learning-journey\07-Pig-Game" />
       <recent name="D:\js-learning-journey\06-Modal" />
-      <recent name="D:\js-learning-journey\05-Guess-My-Number" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -178,15 +179,7 @@
       <workItem from="1788628562010" duration="5267000" />
       <workItem from="1788718199050" duration="3751000" />
       <workItem from="1788779059031" duration="3901000" />
-      <workItem from="1788796899400" duration="2168000" />
-    </task>
-    <task id="LOCAL-00026" summary="Implement review functions">
-      <option name="closed" value="true" />
-      <created>1781204756704</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1781204756704</updated>
+      <workItem from="1788796899400" duration="3762000" />
     </task>
     <task id="LOCAL-00027" summary="Implement coding challenge #1">
       <option name="closed" value="true" />
@@ -572,7 +565,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788795352740</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Implement setup project and add starter HTML files">
+      <option name="closed" value="true" />
+      <created>1788802521225</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1788802521225</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -608,13 +609,13 @@
     <MESSAGE value="Implement switching the active player" />
     <MESSAGE value="Implement holding current score and winner detection" />
     <MESSAGE value="Implement resetting the game" />
-    <MESSAGE value="Implement setup project and add starter HTML files" />
     <MESSAGE value="Implement scoping in practice" />
     <MESSAGE value="Implement hoisting and TDZ in practice" />
     <MESSAGE value="Implement refactoring code" />
     <MESSAGE value="Implement the this keyword in practice" />
     <MESSAGE value="Implement regular functions vs. arrow functions" />
     <MESSAGE value="Implement object references in practice (shallow vs. deep copies)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement object references in practice (shallow vs. deep copies)" />
+    <MESSAGE value="Implement setup project and add starter HTML files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement setup project and add starter HTML files" />
   </component>
 </project>
