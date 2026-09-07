@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement the this keyword in practice">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement regular functions vs. arrow functions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/08-Behind-the-Scenes/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Behind-the-Scenes/script.js" afterDir="false" />
     </list>
@@ -176,15 +176,8 @@
       <workItem from="1788457689181" duration="2343000" />
       <workItem from="1788551536579" duration="2622000" />
       <workItem from="1788628562010" duration="5267000" />
-      <workItem from="1788718199050" duration="2073000" />
-    </task>
-    <task id="LOCAL-00024" summary="Implement arrow functions">
-      <option name="closed" value="true" />
-      <created>1781123270323</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1781123270323</updated>
+      <workItem from="1788718199050" duration="3751000" />
+      <workItem from="1788779059031" duration="3212000" />
     </task>
     <task id="LOCAL-00025" summary="Implement calling functions">
       <option name="closed" value="true" />
@@ -570,7 +563,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788633510613</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Implement regular functions vs. arrow functions">
+      <option name="closed" value="true" />
+      <created>1788720416521</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1788720416521</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -588,7 +589,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement HTML attributes" />
     <MESSAGE value="Implement external CSS for basic styling" />
     <MESSAGE value="Implement box model styling" />
     <MESSAGE value="Implement selecting and manipulating elements" />
@@ -613,6 +613,7 @@
     <MESSAGE value="Implement hoisting and TDZ in practice" />
     <MESSAGE value="Implement refactoring code" />
     <MESSAGE value="Implement the this keyword in practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement the this keyword in practice" />
+    <MESSAGE value="Implement regular functions vs. arrow functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement regular functions vs. arrow functions" />
   </component>
 </project>

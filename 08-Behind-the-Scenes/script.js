@@ -119,46 +119,93 @@
 
 ///////////////////////////////////////
 // Regular Functions vs. Arrow Functions
+//
+// // var firstName = 'Mamad';
+//
+// const amir = {
+//   year: 2007,
+//   firstName: 'Amir',
+//   calcAge: function () {
+//     // console.log(this);
+//     console.log(2026 - this.year);
+//
+//     // Solution 1
+//     // const self = this;
+//     // const isMillenial = function () {
+//     //   console.log(self);
+//     //   console.log(self.year >= 1998 && self.year <= 2010);
+//     //   // console.log(this.year >= 1998 && this.year <= 2010);
+//     // };
+//
+//     // Solution 2
+//     const isMillenial = () => {
+//       console.log(this);
+//       console.log(this.year >= 1998 && this.year <= 2010);
+//     };
+//     isMillenial();
+//   },
+//   greet: () => console.log(`Hey ${this.firstName}`),
+// };
+// amir.greet();
+// amir.calcAge();
+//
+// // arguments keyword
+// const addExpr = function (a, b) {
+//   console.log(arguments);
+//   return a + b;
+// };
+// addExpr(2, 3);
+// addExpr(3, 4, 5, 6);
+//
+// var addArrow = (a, b) => {
+//   console.log(arguments);
+//   return a + b;
+// };
+// addArrow(2, 3);
 
-// var firstName = 'Mamad';
+///////////////////////////////////////
+// Object References in Practice (Shallow vs. Deep Copies)
 
-const amir = {
-  year: 2007,
-  firstName: 'Amir',
-  calcAge: function () {
-    // console.log(this);
-    console.log(2026 - this.year);
-
-    // Solution 1
-    // const self = this;
-    // const isMillenial = function () {
-    //   console.log(self);
-    //   console.log(self.year >= 1998 && self.year <= 2010);
-    //   // console.log(this.year >= 1998 && this.year <= 2010);
-    // };
-
-    // Solution 2
-    const isMillenial = () => {
-      console.log(this);
-      console.log(this.year >= 1998 && this.year <= 2010);
-    };
-    isMillenial();
-  },
-  greet: () => console.log(`Hey ${this.firstName}`),
+const jessica1 = {
+  firstName: 'Jessica',
+  lastName: 'Abraham',
+  age: 20,
 };
-amir.greet();
-amir.calcAge();
 
-// arguments keyword
-const addExpr = function (a, b) {
-  console.log(arguments);
-  return a + b;
-};
-addExpr(2, 3);
-addExpr(3, 4, 5, 6);
+function marryPerson(originalPerson, newLastName) {
+  originalPerson.lastName = newLastName;
+  return originalPerson;
+}
+const marriedJessica = marryPerson(jessica1, 'Parker');
 
-var addArrow = (a, b) => {
-  console.log(arguments);
-  return a + b;
+// const marriedJessica = jessica1;
+// marriedJessica.lastName = 'Parker';
+
+console.log('Before:', jessica1);
+console.log('After:', marriedJessica);
+
+const jessica = {
+  firstName: 'Jessica',
+  lastName: 'Abraham',
+  age: 20,
+  family: ['Patrik, Ross'],
 };
-addArrow(2, 3);
+
+// Shallow copy
+const jessicaCopy = { ...jessica };
+jessicaCopy.lastName = 'Parker';
+
+// jessicaCopy.family.push('Mobina');
+// jessicaCopy.family.push('Amir');
+//
+// console.log('Before:', jessica);
+// console.log('After:', jessicaCopy);
+
+// Deep copy/clone
+const jessicaClone = structuredClone(jessica);
+
+jessicaClone.family.push('Mobina');
+jessicaClone.family.push('Amir');
+
+console.log('Original:', jessica);
+console.log('Clone:', jessicaClone);
