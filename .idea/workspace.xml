@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement spread operators">
-      <change afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/04-rest-pattern.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement rest pattern">
+      <change afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/05-short-circuiting.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" afterDir="false" />
     </list>
@@ -182,15 +182,7 @@
       <workItem from="1788796899400" duration="4191000" />
       <workItem from="1788857597685" duration="5213000" />
       <workItem from="1788960566593" duration="4118000" />
-      <workItem from="1789048485262" duration="2705000" />
-    </task>
-    <task id="LOCAL-00030" summary="Implement coding challenge #2">
-      <option name="closed" value="true" />
-      <created>1781371168994</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1781371168994</updated>
+      <workItem from="1789048485262" duration="5200000" />
     </task>
     <task id="LOCAL-00031" summary="Implement objects">
       <option name="closed" value="true" />
@@ -576,7 +568,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788964259763</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Implement rest pattern">
+      <option name="closed" value="true" />
+      <created>1789053965801</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1789053965812</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,7 +594,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement game logic" />
     <MESSAGE value="Implement manipulating CSS style" />
     <MESSAGE value="Implement challenge 01" />
     <MESSAGE value="Implement game logic" />
@@ -619,6 +618,7 @@
     <MESSAGE value="Implement array destructuring" />
     <MESSAGE value="Implement object destructuring" />
     <MESSAGE value="Implement spread operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement spread operators" />
+    <MESSAGE value="Implement rest pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement rest pattern" />
   </component>
 </project>
