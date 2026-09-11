@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement short-circuiting evaluation">
-      <change afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/06-nullish-coalescing.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement nullish coalescing">
+      <change afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/07-logical-assignment-operators.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" afterDir="false" />
     </list>
@@ -182,15 +182,8 @@
       <workItem from="1788796899400" duration="4191000" />
       <workItem from="1788857597685" duration="5213000" />
       <workItem from="1788960566593" duration="4118000" />
-      <workItem from="1789048485262" duration="6098000" />
-    </task>
-    <task id="LOCAL-00032" summary="Implement dot vs bracket notation">
-      <option name="closed" value="true" />
-      <created>1781463839237</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1781463839237</updated>
+      <workItem from="1789048485262" duration="6642000" />
+      <workItem from="1789152410078" duration="2190000" />
     </task>
     <task id="LOCAL-00033" summary="Implement object methods">
       <option name="closed" value="true" />
@@ -576,7 +569,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789060819310</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Implement nullish coalescing">
+      <option name="closed" value="true" />
+      <created>1789061831023</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1789061831023</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,7 +595,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement challenge 01" />
     <MESSAGE value="Implement game logic" />
     <MESSAGE value="Implement handling click events" />
     <MESSAGE value="Implement high score" />
@@ -619,6 +619,7 @@
     <MESSAGE value="Implement spread operators" />
     <MESSAGE value="Implement rest pattern" />
     <MESSAGE value="Implement short-circuiting evaluation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement short-circuiting evaluation" />
+    <MESSAGE value="Implement nullish coalescing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement nullish coalescing" />
   </component>
 </project>
