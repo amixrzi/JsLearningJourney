@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement nullish coalescing">
-      <change afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/07-logical-assignment-operators.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Remove unnecessary logical assignment code">
+      <change afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/08-challenge-01.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" afterDir="false" />
     </list>
@@ -183,23 +183,8 @@
       <workItem from="1788857597685" duration="5213000" />
       <workItem from="1788960566593" duration="4118000" />
       <workItem from="1789048485262" duration="6642000" />
-      <workItem from="1789152410078" duration="2190000" />
-    </task>
-    <task id="LOCAL-00033" summary="Implement object methods">
-      <option name="closed" value="true" />
-      <created>1781551779959</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1781551779959</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Implement coding challenge 3">
-      <option name="closed" value="true" />
-      <created>1784227632237</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1784227632237</updated>
+      <workItem from="1789152410078" duration="2692000" />
+      <workItem from="1789215452495" duration="3196000" />
     </task>
     <task id="LOCAL-00035" summary="Fix bug challenge 3">
       <option name="closed" value="true" />
@@ -577,7 +562,23 @@
       <option name="project" value="LOCAL" />
       <updated>1789061831023</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Implement logical assignment operator">
+      <option name="closed" value="true" />
+      <created>1789154776617</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1789154776617</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Remove unnecessary logical assignment code">
+      <option name="closed" value="true" />
+      <created>1789154901605</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1789154901605</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -595,8 +596,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement game logic" />
-    <MESSAGE value="Implement handling click events" />
     <MESSAGE value="Implement high score" />
     <MESSAGE value="Implement DOM element selection" />
     <MESSAGE value="Implement modal open and close functionality" />
@@ -620,6 +619,8 @@
     <MESSAGE value="Implement rest pattern" />
     <MESSAGE value="Implement short-circuiting evaluation" />
     <MESSAGE value="Implement nullish coalescing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement nullish coalescing" />
+    <MESSAGE value="Implement logical assignment operator" />
+    <MESSAGE value="Remove unnecessary logical assignment code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove unnecessary logical assignment code" />
   </component>
 </project>
