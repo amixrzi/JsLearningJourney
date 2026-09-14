@@ -62,3 +62,12 @@ for (const day of weekdays) {
 // Methods
 console.log(restaurant.order?.(2, 0) ?? 'Methods dos not exist');
 console.log(restaurant.orderGhormehSabzi?.(2, 0) ?? 'Methods dos not exist');
+
+// Arrays
+const users = [{ name: 'amir', email: 'amixrzi@gmail.com' }];
+// const users = [];
+
+console.log(users[0]?.name ?? 'users array empty');
+
+if (users.length > 0) console.log(users[0].name);
+else console.log('users array empty');

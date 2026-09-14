@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement enhanced object literals">
-      <change afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/11-optional-chaining.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Data-Structures-Operators/11-optional-chaining.js" beforeDir="false" afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/11-optional-chaining.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
