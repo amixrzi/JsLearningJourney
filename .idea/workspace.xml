@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement enhanced object literals">
-      <change beforePath="$PROJECT_DIR$/09-Data-Structures-Operators/11-optional-chaining.js" beforeDir="false" afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/11-optional-chaining.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement optional chaining in arrays">
+      <change afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/12-object-keys-values-entries.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,14 +187,7 @@
       <workItem from="1789215452495" duration="3380000" />
       <workItem from="1789329542355" duration="1843000" />
       <workItem from="1789403667631" duration="3428000" />
-    </task>
-    <task id="LOCAL-00038" summary="Implement looping backwards">
-      <option name="closed" value="true" />
-      <created>1784399574212</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1784399574212</updated>
+      <workItem from="1789460919910" duration="2244000" />
     </task>
     <task id="LOCAL-00039" summary="Implement while loop">
       <option name="closed" value="true" />
@@ -578,7 +573,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789404777354</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Implement optional chaining in arrays">
+      <option name="closed" value="true" />
+      <created>1789411956555</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1789411956555</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -596,7 +599,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement modal close whit Escape key" />
     <MESSAGE value="Implement setup project and add starter HTML/CSS files" />
     <MESSAGE value="Implement selecting elements and starting conditions" />
     <MESSAGE value="Implement rolling the dice" />
@@ -621,6 +623,7 @@
     <MESSAGE value="Implement challenge 01" />
     <MESSAGE value="Implement for of loop" />
     <MESSAGE value="Implement enhanced object literals" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement enhanced object literals" />
+    <MESSAGE value="Implement optional chaining in arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement optional chaining in arrays" />
   </component>
 </project>
