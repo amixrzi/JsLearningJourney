@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement optional chaining in arrays">
-      <change afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/12-object-keys-values-entries.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement object keys, values and entries">
+      <change afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/13-challenge-02.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" afterDir="false" />
     </list>
@@ -187,15 +187,7 @@
       <workItem from="1789215452495" duration="3380000" />
       <workItem from="1789329542355" duration="1843000" />
       <workItem from="1789403667631" duration="3428000" />
-      <workItem from="1789460919910" duration="2244000" />
-    </task>
-    <task id="LOCAL-00039" summary="Implement while loop">
-      <option name="closed" value="true" />
-      <created>1784401475815</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1784401475815</updated>
+      <workItem from="1789460919910" duration="5932000" />
     </task>
     <task id="LOCAL-00040" summary="Implement coding challenge 4">
       <option name="closed" value="true" />
@@ -581,7 +573,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789411956555</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Implement object keys, values and entries">
+      <option name="closed" value="true" />
+      <created>1789463462418</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1789463462419</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -599,7 +599,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement setup project and add starter HTML/CSS files" />
     <MESSAGE value="Implement selecting elements and starting conditions" />
     <MESSAGE value="Implement rolling the dice" />
     <MESSAGE value="Implement switching the active player" />
@@ -624,6 +623,7 @@
     <MESSAGE value="Implement for of loop" />
     <MESSAGE value="Implement enhanced object literals" />
     <MESSAGE value="Implement optional chaining in arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement optional chaining in arrays" />
+    <MESSAGE value="Implement object keys, values and entries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement object keys, values and entries" />
   </component>
 </project>
