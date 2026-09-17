@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement map iteration">
-      <change afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/18-challenge-03.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement challenge 03">
+      <change afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/19-working-with-strings-part-1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -191,15 +190,7 @@
       <workItem from="1789546805364" duration="4082000" />
       <workItem from="1789565469047" duration="2206000" />
       <workItem from="1789575864691" duration="2713000" />
-      <workItem from="1789640500077" duration="2375000" />
-    </task>
-    <task id="LOCAL-00045" summary="Implement coding challenge 2 with ai">
-      <option name="closed" value="true" />
-      <created>1784737452272</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1784737452272</updated>
+      <workItem from="1789640500077" duration="5001000" />
     </task>
     <task id="LOCAL-00046" summary="Implement basic HTML structure">
       <option name="closed" value="true" />
@@ -585,7 +576,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789579576089</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="Implement challenge 03">
+      <option name="closed" value="true" />
+      <created>1789643650014</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1789643650014</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -603,7 +602,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement scoping in practice" />
     <MESSAGE value="Implement hoisting and TDZ in practice" />
     <MESSAGE value="Implement refactoring code" />
     <MESSAGE value="Implement the this keyword in practice" />
@@ -628,6 +626,7 @@
     <MESSAGE value="Implement set operations" />
     <MESSAGE value="Implement map fundamentals" />
     <MESSAGE value="Implement map iteration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement map iteration" />
+    <MESSAGE value="Implement challenge 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement challenge 03" />
   </component>
 </project>
