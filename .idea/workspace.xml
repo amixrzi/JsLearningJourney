@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement working with strings part 1">
-      <change afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/20-working-with-strings-part-2.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement working with strings part 2">
+      <change afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/21-working-with-strings-part-3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" afterDir="false" />
     </list>
@@ -192,15 +192,9 @@
       <workItem from="1789565469047" duration="2206000" />
       <workItem from="1789575864691" duration="2713000" />
       <workItem from="1789640500077" duration="5634000" />
-      <workItem from="1789667854472" duration="4080000" />
-    </task>
-    <task id="LOCAL-00047" summary="Implement HTML attributes">
-      <option name="closed" value="true" />
-      <created>1785009456082</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1785009456082</updated>
+      <workItem from="1789667854472" duration="4492000" />
+      <workItem from="1789729378010" duration="1234000" />
+      <workItem from="1789808321636" duration="3564000" />
     </task>
     <task id="LOCAL-00048" summary="Implement external CSS for basic styling">
       <option name="closed" value="true" />
@@ -586,7 +580,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789646869615</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Implement working with strings part 2">
+      <option name="closed" value="true" />
+      <created>1789672438616</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1789672438617</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -604,7 +606,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement refactoring code" />
     <MESSAGE value="Implement the this keyword in practice" />
     <MESSAGE value="Implement regular functions vs. arrow functions" />
     <MESSAGE value="Implement object references in practice (shallow vs. deep copies)" />
@@ -629,6 +630,7 @@
     <MESSAGE value="Implement map iteration" />
     <MESSAGE value="Implement challenge 03" />
     <MESSAGE value="Implement working with strings part 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement working with strings part 1" />
+    <MESSAGE value="Implement working with strings part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement working with strings part 2" />
   </component>
 </project>
