@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement string methods practice">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement setup project and add starter HTML files">
+      <change afterPath="$PROJECT_DIR$/10-Functions/01-default-parameters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Functions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/10-Functions/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,11 +83,11 @@
       <recent name="D:\js-learning-journey\01-Fundamentals-Part-1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\js-learning-journey\10-Functions" />
       <recent name="D:\js-learning-journey\09-Data-Structures-Operators" />
       <recent name="D:\js-learning-journey\08-Behind-the-Scenes" />
       <recent name="D:\js-learning-journey\07-Pig-Game\images" />
       <recent name="D:\js-learning-journey\07-Pig-Game" />
-      <recent name="D:\js-learning-journey\06-Modal" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -194,14 +195,7 @@
       <workItem from="1789729378010" duration="1234000" />
       <workItem from="1789808321636" duration="7251000" />
       <workItem from="1789907532945" duration="1933000" />
-    </task>
-    <task id="LOCAL-00051" summary="Implement Handling click events">
-      <option name="closed" value="true" />
-      <created>1786571159760</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1786571159760</updated>
+      <workItem from="1789928232490" duration="1458000" />
     </task>
     <task id="LOCAL-00052" summary="Implement Game logic">
       <option name="closed" value="true" />
@@ -587,7 +581,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789909466970</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Implement setup project and add starter HTML files">
+      <option name="closed" value="true" />
+      <created>1789928485825</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1789928485825</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -605,7 +607,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement setup project and add starter HTML files" />
     <MESSAGE value="Implement array destructuring" />
     <MESSAGE value="Implement object destructuring" />
     <MESSAGE value="Implement spread operators" />
@@ -630,6 +631,7 @@
     <MESSAGE value="Implement working with strings part 3" />
     <MESSAGE value="Implement challenge 04" />
     <MESSAGE value="Implement string methods practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement string methods practice" />
+    <MESSAGE value="Implement setup project and add starter HTML files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement setup project and add starter HTML files" />
   </component>
 </project>
