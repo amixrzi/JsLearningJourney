@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement challenge 04">
-      <change afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/23-string-methods-practice.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement string methods practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/09-Data-Structures-Operators/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,15 +193,7 @@
       <workItem from="1789667854472" duration="4492000" />
       <workItem from="1789729378010" duration="1234000" />
       <workItem from="1789808321636" duration="7251000" />
-      <workItem from="1789907532945" duration="1483000" />
-    </task>
-    <task id="LOCAL-00050" summary="Implement selecting and manipulating elements">
-      <option name="closed" value="true" />
-      <created>1786304706480</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1786304706481</updated>
+      <workItem from="1789907532945" duration="1933000" />
     </task>
     <task id="LOCAL-00051" summary="Implement Handling click events">
       <option name="closed" value="true" />
@@ -589,7 +579,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789817869612</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="Implement string methods practice">
+      <option name="closed" value="true" />
+      <created>1789909466970</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1789909466970</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -607,7 +605,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement object references in practice (shallow vs. deep copies)" />
     <MESSAGE value="Implement setup project and add starter HTML files" />
     <MESSAGE value="Implement array destructuring" />
     <MESSAGE value="Implement object destructuring" />
@@ -632,6 +629,7 @@
     <MESSAGE value="Implement working with strings part 3" />
     <MESSAGE value="Implement working with strings part 3" />
     <MESSAGE value="Implement challenge 04" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement challenge 04" />
+    <MESSAGE value="Implement string methods practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement string methods practice" />
   </component>
 </project>
