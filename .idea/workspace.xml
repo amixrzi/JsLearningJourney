@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement call and apply methods">
-      <change afterPath="$PROJECT_DIR$/10-Functions/06-bind-method.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement bind method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-Functions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/10-Functions/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Functions/06-bind-method.js" beforeDir="false" afterPath="$PROJECT_DIR$/10-Functions/06-bind-method.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,15 +199,7 @@
       <workItem from="1789994150515" duration="2218000" />
       <workItem from="1790011846939" duration="4617000" />
       <workItem from="1790068519988" duration="3214000" />
-      <workItem from="1790102802835" duration="3481000" />
-    </task>
-    <task id="LOCAL-00057" summary="Implement setup project and add starter HTML/CSS files">
-      <option name="closed" value="true" />
-      <created>1787514669979</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1787514669980</updated>
+      <workItem from="1790102802835" duration="4129000" />
     </task>
     <task id="LOCAL-00058" summary="Implement DOM element selection">
       <option name="closed" value="true" />
@@ -594,7 +585,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790071817194</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Implement bind method">
+      <option name="closed" value="true" />
+      <created>1790106754288</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1790106754288</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -612,7 +611,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement logical assignment operator" />
     <MESSAGE value="Remove unnecessary logical assignment code" />
     <MESSAGE value="Implement challenge 01" />
     <MESSAGE value="Implement for of loop" />
@@ -637,6 +635,7 @@
     <MESSAGE value="Implement callback functions" />
     <MESSAGE value="Implement returning functions" />
     <MESSAGE value="Implement call and apply methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement call and apply methods" />
+    <MESSAGE value="Implement bind method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement bind method" />
   </component>
 </project>
