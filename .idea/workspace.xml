@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement bind method">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement refactoring code">
+      <change afterPath="$PROJECT_DIR$/10-Functions/07-challenge-01.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-Functions/06-bind-method.js" beforeDir="false" afterPath="$PROJECT_DIR$/10-Functions/06-bind-method.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Functions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/10-Functions/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,15 +200,8 @@
       <workItem from="1789994150515" duration="2218000" />
       <workItem from="1790011846939" duration="4617000" />
       <workItem from="1790068519988" duration="3214000" />
-      <workItem from="1790102802835" duration="4129000" />
-    </task>
-    <task id="LOCAL-00058" summary="Implement DOM element selection">
-      <option name="closed" value="true" />
-      <created>1787602141992</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1787602141992</updated>
+      <workItem from="1790102802835" duration="4317000" />
+      <workItem from="1790159852995" duration="3887000" />
     </task>
     <task id="LOCAL-00059" summary="Implement modal open and close functionality">
       <option name="closed" value="true" />
@@ -593,7 +587,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790106754288</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="Implement refactoring code">
+      <option name="closed" value="true" />
+      <created>1790107264770</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1790107264770</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -611,7 +613,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Remove unnecessary logical assignment code" />
     <MESSAGE value="Implement challenge 01" />
     <MESSAGE value="Implement for of loop" />
     <MESSAGE value="Implement enhanced object literals" />
@@ -636,6 +637,7 @@
     <MESSAGE value="Implement returning functions" />
     <MESSAGE value="Implement call and apply methods" />
     <MESSAGE value="Implement bind method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement bind method" />
+    <MESSAGE value="Implement refactoring code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement refactoring code" />
   </component>
 </project>
