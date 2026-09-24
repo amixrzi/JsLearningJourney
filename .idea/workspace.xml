@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement closures">
-      <change afterPath="$PROJECT_DIR$/10-Functions/10-closure-examples.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement closure examples">
+      <change afterPath="$PROJECT_DIR$/10-Functions/11-challenge-02.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/10-Functions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/10-Functions/index.html" afterDir="false" />
     </list>
@@ -203,15 +203,7 @@
       <workItem from="1790102802835" duration="4317000" />
       <workItem from="1790159852995" duration="4210000" />
       <workItem from="1790192115588" duration="1588000" />
-      <workItem from="1790267477595" duration="3081000" />
-    </task>
-    <task id="LOCAL-00062" summary="Implement selecting elements and starting conditions">
-      <option name="closed" value="true" />
-      <created>1787862170383</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1787862170383</updated>
+      <workItem from="1790267477595" duration="4075000" />
     </task>
     <task id="LOCAL-00063" summary="Implement rolling the dice">
       <option name="closed" value="true" />
@@ -597,7 +589,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790272169788</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="Implement closure examples">
+      <option name="closed" value="true" />
+      <created>1790274179762</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1790274179762</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -615,7 +615,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement optional chaining in arrays" />
     <MESSAGE value="Implement object keys, values and entries" />
     <MESSAGE value="Implement challenge 02" />
     <MESSAGE value="Implement sets" />
@@ -640,6 +639,7 @@
     <MESSAGE value="Implement challenge 01" />
     <MESSAGE value="Implement IIFE" />
     <MESSAGE value="Implement closures" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement closures" />
+    <MESSAGE value="Implement closure examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement closure examples" />
   </component>
 </project>
