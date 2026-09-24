@@ -1,0 +1,43 @@
+'use strict';
+
+// Example 1
+let f;
+
+const g = function () {
+  const a = 20;
+  f = function () {
+    console.log(a * 2);
+  };
+};
+
+const h = function () {
+  const b = 541;
+  f = function () {
+    console.log(b * 2);
+  };
+};
+
+g();
+f();
+console.dir(f);
+
+// Re-assigning f function
+h();
+f();
+console.dir(f);
+
+//Example 2
+const boardPassenger = function (n, wait) {
+  const perGroup = n / 3;
+
+  setTimeout(function () {
+    console.log(`We are now boarding all ${n} passengers`);
+    console.log(`There are 3 groups, each whit ${perGroup} passengers`);
+  }, wait * 1000);
+
+  console.log(`Will start boarding at ${wait} seconds`);
+};
+
+const perGroup = 1000;
+
+boardPassenger(300, 4);
