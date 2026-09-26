@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement foreach">
-      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/04-foreach-with-maps-and-sets.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement foreach whit maps and sets">
+      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,15 +205,7 @@
       <workItem from="1790267477595" duration="4303000" />
       <workItem from="1790321575667" duration="642000" />
       <workItem from="1790366535777" duration="2228000" />
-      <workItem from="1790446115603" duration="1958000" />
-    </task>
-    <task id="LOCAL-00068" summary="Implement setup project and add starter HTML files">
-      <option name="closed" value="true" />
-      <created>1788462030335</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1788462030335</updated>
+      <workItem from="1790446115603" duration="2940000" />
     </task>
     <task id="LOCAL-00069" summary="Implement scoping in practice">
       <option name="closed" value="true" />
@@ -600,7 +591,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790447206382</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="Implement foreach whit maps and sets">
+      <option name="closed" value="true" />
+      <created>1790448943428</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1790448943428</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -618,7 +617,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement map fundamentals" />
     <MESSAGE value="Implement map iteration" />
     <MESSAGE value="Implement challenge 03" />
     <MESSAGE value="Implement working with strings part 1" />
@@ -643,6 +641,7 @@
     <MESSAGE value="Implement simple array methods" />
     <MESSAGE value="Implement at method" />
     <MESSAGE value="Implement foreach" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement foreach" />
+    <MESSAGE value="Implement foreach whit maps and sets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement foreach whit maps and sets" />
   </component>
 </project>
