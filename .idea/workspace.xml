@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement DOM manipulation">
-      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/05-challenge-01.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement challenge 01">
+      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/06-map-method.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" afterDir="false" />
     </list>
@@ -207,15 +207,7 @@
       <workItem from="1790321575667" duration="642000" />
       <workItem from="1790366535777" duration="2228000" />
       <workItem from="1790446115603" duration="3360000" />
-      <workItem from="1790532736548" duration="4710000" />
-    </task>
-    <task id="LOCAL-00071" summary="Implement refactoring code">
-      <option name="closed" value="true" />
-      <created>1788553695638</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1788553695638</updated>
+      <workItem from="1790532736548" duration="6319000" />
     </task>
     <task id="LOCAL-00072" summary="Implement the this keyword in practice">
       <option name="closed" value="true" />
@@ -601,7 +593,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790535148427</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="Implement challenge 01">
+      <option name="closed" value="true" />
+      <created>1790538359500</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1790538359500</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -632,7 +632,6 @@
     <MESSAGE value="Implement call and apply methods" />
     <MESSAGE value="Implement bind method" />
     <MESSAGE value="Implement refactoring code" />
-    <MESSAGE value="Implement challenge 01" />
     <MESSAGE value="Implement IIFE" />
     <MESSAGE value="Implement closures" />
     <MESSAGE value="Implement closure examples" />
@@ -644,6 +643,7 @@
     <MESSAGE value="Implement foreach whit maps and sets" />
     <MESSAGE value="Implement Bankist app data and DOM elements" />
     <MESSAGE value="Implement DOM manipulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement DOM manipulation" />
+    <MESSAGE value="Implement challenge 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement challenge 01" />
   </component>
 </project>
