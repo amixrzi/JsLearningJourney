@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement Bankist app data and DOM elements">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement DOM manipulation">
+      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/05-challenge-01.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,15 +207,7 @@
       <workItem from="1790321575667" duration="642000" />
       <workItem from="1790366535777" duration="2228000" />
       <workItem from="1790446115603" duration="3360000" />
-      <workItem from="1790532736548" duration="1600000" />
-    </task>
-    <task id="LOCAL-00070" summary="Implement hoisting and TDZ in practice">
-      <option name="closed" value="true" />
-      <created>1788553432618</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1788553432618</updated>
+      <workItem from="1790532736548" duration="4710000" />
     </task>
     <task id="LOCAL-00071" summary="Implement refactoring code">
       <option name="closed" value="true" />
@@ -601,7 +593,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790450384102</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="Implement DOM manipulation">
+      <option name="closed" value="true" />
+      <created>1790535148426</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1790535148427</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -619,7 +619,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement challenge 03" />
     <MESSAGE value="Implement working with strings part 1" />
     <MESSAGE value="Implement working with strings part 3" />
     <MESSAGE value="Implement working with strings part 3" />
@@ -644,6 +643,7 @@
     <MESSAGE value="Implement foreach" />
     <MESSAGE value="Implement foreach whit maps and sets" />
     <MESSAGE value="Implement Bankist app data and DOM elements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement Bankist app data and DOM elements" />
+    <MESSAGE value="Implement DOM manipulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement DOM manipulation" />
   </component>
 </project>
