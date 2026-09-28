@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement the map method">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement computing username">
+      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/07-filter-method.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,15 +207,7 @@
       <workItem from="1790366535777" duration="2228000" />
       <workItem from="1790446115603" duration="3360000" />
       <workItem from="1790532736548" duration="7319000" />
-      <workItem from="1790614774504" duration="1501000" />
-    </task>
-    <task id="LOCAL-00073" summary="Implement regular functions vs. arrow functions">
-      <option name="closed" value="true" />
-      <created>1788720416521</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1788720416521</updated>
+      <workItem from="1790614774504" duration="2533000" />
     </task>
     <task id="LOCAL-00074" summary="Implement object references in practice (shallow vs. deep copies)">
       <option name="closed" value="true" />
@@ -602,7 +593,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790540805829</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="Implement computing username">
+      <option name="closed" value="true" />
+      <created>1790616306562</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1790616306562</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -620,7 +619,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement working with strings part 3" />
     <MESSAGE value="Implement working with strings part 3" />
     <MESSAGE value="Implement challenge 04" />
     <MESSAGE value="Implement string methods practice" />
@@ -645,6 +643,7 @@
     <MESSAGE value="Implement DOM manipulation" />
     <MESSAGE value="Implement challenge 01" />
     <MESSAGE value="Implement the map method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement the map method" />
+    <MESSAGE value="Implement computing username" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement computing username" />
   </component>
 </project>
