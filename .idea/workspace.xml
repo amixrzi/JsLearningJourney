@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement computing username">
-      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/07-filter-method.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement filter method">
+      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/08-reduce-method.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -207,15 +208,8 @@
       <workItem from="1790366535777" duration="2228000" />
       <workItem from="1790446115603" duration="3360000" />
       <workItem from="1790532736548" duration="7319000" />
-      <workItem from="1790614774504" duration="2533000" />
-    </task>
-    <task id="LOCAL-00074" summary="Implement object references in practice (shallow vs. deep copies)">
-      <option name="closed" value="true" />
-      <created>1788795352736</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1788795352740</updated>
+      <workItem from="1790614774504" duration="4510000" />
+      <workItem from="1790702233695" duration="1310000" />
     </task>
     <task id="LOCAL-00075" summary="Implement setup project and add starter HTML files">
       <option name="closed" value="true" />
@@ -601,7 +595,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790616306562</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="Implement filter method">
+      <option name="closed" value="true" />
+      <created>1790617371832</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1790617371835</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -619,7 +621,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement working with strings part 3" />
     <MESSAGE value="Implement challenge 04" />
     <MESSAGE value="Implement string methods practice" />
     <MESSAGE value="Implement default parameters in functions" />
@@ -644,6 +645,7 @@
     <MESSAGE value="Implement challenge 01" />
     <MESSAGE value="Implement the map method" />
     <MESSAGE value="Implement computing username" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement computing username" />
+    <MESSAGE value="Implement filter method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement filter method" />
   </component>
 </project>
