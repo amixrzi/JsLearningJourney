@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement reduce method example">
-      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/09-challenge-02.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement challenge 02">
+      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/10-method-chaining.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" afterDir="false" />
     </list>
@@ -210,15 +210,7 @@
       <workItem from="1790532736548" duration="7319000" />
       <workItem from="1790614774504" duration="4510000" />
       <workItem from="1790702233695" duration="3461000" />
-      <workItem from="1790879876046" duration="2108000" />
-    </task>
-    <task id="LOCAL-00078" summary="Implement spread operators">
-      <option name="closed" value="true" />
-      <created>1788964259762</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1788964259763</updated>
+      <workItem from="1790879876046" duration="3469000" />
     </task>
     <task id="LOCAL-00079" summary="Implement rest pattern">
       <option name="closed" value="true" />
@@ -604,7 +596,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790713755462</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="Implement challenge 02">
+      <option name="closed" value="true" />
+      <created>1790882199846</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1790882199847</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -632,7 +632,6 @@
     <MESSAGE value="Implement IIFE" />
     <MESSAGE value="Implement closures" />
     <MESSAGE value="Implement closure examples" />
-    <MESSAGE value="Implement challenge 02" />
     <MESSAGE value="Implement setup project and add starter HTML files" />
     <MESSAGE value="Implement simple array methods" />
     <MESSAGE value="Implement at method" />
@@ -647,6 +646,7 @@
     <MESSAGE value="Implement reduce method" />
     <MESSAGE value="Implement calc and display balance" />
     <MESSAGE value="Implement reduce method example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement reduce method example" />
+    <MESSAGE value="Implement challenge 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement challenge 02" />
   </component>
 </project>
