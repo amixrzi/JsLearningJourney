@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement calc and display balance">
-      <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/08-reduce-method.js" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/08-reduce-method.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement reduce method example">
+      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/09-challenge-02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -208,15 +209,8 @@
       <workItem from="1790446115603" duration="3360000" />
       <workItem from="1790532736548" duration="7319000" />
       <workItem from="1790614774504" duration="4510000" />
-      <workItem from="1790702233695" duration="2263000" />
-    </task>
-    <task id="LOCAL-00077" summary="Implement object destructuring">
-      <option name="closed" value="true" />
-      <created>1788860695200</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1788860695200</updated>
+      <workItem from="1790702233695" duration="3461000" />
+      <workItem from="1790879876046" duration="2108000" />
     </task>
     <task id="LOCAL-00078" summary="Implement spread operators">
       <option name="closed" value="true" />
@@ -602,7 +596,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790713090176</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="Implement reduce method example">
+      <option name="closed" value="true" />
+      <created>1790713755462</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1790713755462</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -620,7 +622,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement default parameters in functions" />
     <MESSAGE value="Implement passing arguments" />
     <MESSAGE value="Implement callback functions" />
     <MESSAGE value="Implement callback functions" />
@@ -645,6 +646,7 @@
     <MESSAGE value="Implement filter method" />
     <MESSAGE value="Implement reduce method" />
     <MESSAGE value="Implement calc and display balance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement calc and display balance" />
+    <MESSAGE value="Implement reduce method example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement reduce method example" />
   </component>
 </project>
