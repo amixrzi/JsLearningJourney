@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement calc and display summary">
-      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/11-challenge-03.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement challenge 03">
+      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/12-find-method.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" afterDir="false" />
     </list>
@@ -211,15 +211,7 @@
       <workItem from="1790614774504" duration="4510000" />
       <workItem from="1790702233695" duration="3461000" />
       <workItem from="1790879876046" duration="5730000" />
-      <workItem from="1790968231549" duration="878000" />
-    </task>
-    <task id="LOCAL-00081" summary="Implement nullish coalescing">
-      <option name="closed" value="true" />
-      <created>1789061831023</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1789061831023</updated>
+      <workItem from="1790968231549" duration="2228000" />
     </task>
     <task id="LOCAL-00082" summary="Implement logical assignment operator">
       <option name="closed" value="true" />
@@ -605,7 +597,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790885027770</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="Implement challenge 03">
+      <option name="closed" value="true" />
+      <created>1790969202643</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1790969202645</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -623,7 +623,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement callback functions" />
     <MESSAGE value="Implement returning functions" />
     <MESSAGE value="Implement call and apply methods" />
     <MESSAGE value="Implement bind method" />
@@ -648,6 +647,7 @@
     <MESSAGE value="Implement challenge 02" />
     <MESSAGE value="Implement method chaining" />
     <MESSAGE value="Implement calc and display summary" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement calc and display summary" />
+    <MESSAGE value="Implement challenge 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement challenge 03" />
   </component>
 </project>
