@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement method chaining">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement calc and display summary">
+      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/11-challenge-03.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,15 +210,8 @@
       <workItem from="1790532736548" duration="7319000" />
       <workItem from="1790614774504" duration="4510000" />
       <workItem from="1790702233695" duration="3461000" />
-      <workItem from="1790879876046" duration="5022000" />
-    </task>
-    <task id="LOCAL-00080" summary="Implement short-circuiting evaluation">
-      <option name="closed" value="true" />
-      <created>1789060819310</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1789060819310</updated>
+      <workItem from="1790879876046" duration="5730000" />
+      <workItem from="1790968231549" duration="878000" />
     </task>
     <task id="LOCAL-00081" summary="Implement nullish coalescing">
       <option name="closed" value="true" />
@@ -604,7 +597,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790883533994</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="Implement calc and display summary">
+      <option name="closed" value="true" />
+      <created>1790885027770</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1790885027770</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -622,7 +623,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement callback functions" />
     <MESSAGE value="Implement callback functions" />
     <MESSAGE value="Implement returning functions" />
     <MESSAGE value="Implement call and apply methods" />
@@ -647,6 +647,7 @@
     <MESSAGE value="Implement reduce method example" />
     <MESSAGE value="Implement challenge 02" />
     <MESSAGE value="Implement method chaining" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement method chaining" />
+    <MESSAGE value="Implement calc and display summary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement calc and display summary" />
   </component>
 </project>
