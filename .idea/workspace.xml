@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement find method">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement login">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,15 +210,8 @@
       <workItem from="1790614774504" duration="4510000" />
       <workItem from="1790702233695" duration="3461000" />
       <workItem from="1790879876046" duration="5730000" />
-      <workItem from="1790968231549" duration="5708000" />
-    </task>
-    <task id="LOCAL-00083" summary="Remove unnecessary logical assignment code">
-      <option name="closed" value="true" />
-      <created>1789154901605</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1789154901605</updated>
+      <workItem from="1790968231549" duration="5949000" />
+      <workItem from="1791139235716" duration="3477000" />
     </task>
     <task id="LOCAL-00084" summary="Implement challenge 01">
       <option name="closed" value="true" />
@@ -606,7 +597,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790970675410</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="Implement login">
+      <option name="closed" value="true" />
+      <created>1790974870127</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1790974870127</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -624,7 +623,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement call and apply methods" />
     <MESSAGE value="Implement bind method" />
     <MESSAGE value="Implement refactoring code" />
     <MESSAGE value="Implement IIFE" />
@@ -649,6 +647,7 @@
     <MESSAGE value="Implement calc and display summary" />
     <MESSAGE value="Implement challenge 03" />
     <MESSAGE value="Implement find method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement find method" />
+    <MESSAGE value="Implement login" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement login" />
   </component>
 </project>
