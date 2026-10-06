@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement findLast and findLastIndex">
-      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/14-some-method.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement some method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,15 +212,8 @@
       <workItem from="1790879876046" duration="5730000" />
       <workItem from="1790968231549" duration="5949000" />
       <workItem from="1791139235716" duration="4134000" />
-      <workItem from="1791222962447" duration="3643000" />
-    </task>
-    <task id="LOCAL-00087" summary="Implement optional chaining in arrays">
-      <option name="closed" value="true" />
-      <created>1789411956555</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1789411956555</updated>
+      <workItem from="1791222962447" duration="4078000" />
+      <workItem from="1791317325613" duration="366000" />
     </task>
     <task id="LOCAL-00088" summary="Implement object keys, values and entries">
       <option name="closed" value="true" />
@@ -607,7 +599,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791226054219</updated>
     </task>
-    <option name="localTasksCounter" value="136" />
+    <task id="LOCAL-00136" summary="Implement some method">
+      <option name="closed" value="true" />
+      <created>1791227463594</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1791227463594</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -625,7 +625,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement closures" />
     <MESSAGE value="Implement closure examples" />
     <MESSAGE value="Implement setup project and add starter HTML files" />
     <MESSAGE value="Implement simple array methods" />
@@ -650,6 +649,7 @@
     <MESSAGE value="Implement transfers" />
     <MESSAGE value="Implement close account" />
     <MESSAGE value="Implement findLast and findLastIndex" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement findLast and findLastIndex" />
+    <MESSAGE value="Implement some method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement some method" />
   </component>
 </project>
