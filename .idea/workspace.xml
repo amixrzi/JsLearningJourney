@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement some method">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/script.js" afterDir="false" />
-    </list>
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement request loan" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -213,15 +210,7 @@
       <workItem from="1790968231549" duration="5949000" />
       <workItem from="1791139235716" duration="4134000" />
       <workItem from="1791222962447" duration="4078000" />
-      <workItem from="1791317325613" duration="366000" />
-    </task>
-    <task id="LOCAL-00088" summary="Implement object keys, values and entries">
-      <option name="closed" value="true" />
-      <created>1789463462418</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1789463462419</updated>
+      <workItem from="1791317325613" duration="751000" />
     </task>
     <task id="LOCAL-00089" summary="Implement challenge 02">
       <option name="closed" value="true" />
@@ -607,7 +596,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791227463594</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="Implement request loan">
+      <option name="closed" value="true" />
+      <created>1791317765234</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1791317765235</updated>
+    </task>
+    <option name="localTasksCounter" value="138" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -625,7 +622,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement closure examples" />
     <MESSAGE value="Implement setup project and add starter HTML files" />
     <MESSAGE value="Implement simple array methods" />
     <MESSAGE value="Implement at method" />
@@ -650,6 +646,7 @@
     <MESSAGE value="Implement close account" />
     <MESSAGE value="Implement findLast and findLastIndex" />
     <MESSAGE value="Implement some method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement some method" />
+    <MESSAGE value="Implement request loan" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement request loan" />
   </component>
 </project>
