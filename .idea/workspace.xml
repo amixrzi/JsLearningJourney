@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement request loan" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement separated callback">
+      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/16-flat-and-flatmap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,23 +214,8 @@
       <workItem from="1790968231549" duration="5949000" />
       <workItem from="1791139235716" duration="4134000" />
       <workItem from="1791222962447" duration="4078000" />
-      <workItem from="1791317325613" duration="751000" />
-    </task>
-    <task id="LOCAL-00089" summary="Implement challenge 02">
-      <option name="closed" value="true" />
-      <created>1789473792963</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1789473792963</updated>
-    </task>
-    <task id="LOCAL-00090" summary="Implement sets">
-      <option name="closed" value="true" />
-      <created>1789558138812</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1789558138812</updated>
+      <workItem from="1791317325613" duration="1969000" />
+      <workItem from="1791400435614" duration="1024000" />
     </task>
     <task id="LOCAL-00091" summary="Implement set operations">
       <option name="closed" value="true" />
@@ -604,7 +593,23 @@
       <option name="project" value="LOCAL" />
       <updated>1791317765235</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="Implement every method">
+      <option name="closed" value="true" />
+      <created>1791318268879</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1791318268879</updated>
+    </task>
+    <task id="LOCAL-00139" summary="Implement separated callback">
+      <option name="closed" value="true" />
+      <created>1791318405189</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1791318405189</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -622,8 +627,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement setup project and add starter HTML files" />
-    <MESSAGE value="Implement simple array methods" />
     <MESSAGE value="Implement at method" />
     <MESSAGE value="Implement foreach" />
     <MESSAGE value="Implement foreach whit maps and sets" />
@@ -647,6 +650,8 @@
     <MESSAGE value="Implement findLast and findLastIndex" />
     <MESSAGE value="Implement some method" />
     <MESSAGE value="Implement request loan" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement request loan" />
+    <MESSAGE value="Implement every method" />
+    <MESSAGE value="Implement separated callback" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement separated callback" />
   </component>
 </project>
