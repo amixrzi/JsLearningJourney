@@ -37,3 +37,48 @@ const breeds = [
     activities: ['agility', 'fetch'],
   },
 ];
+
+// 1.
+const huskyWeight = breeds.find(breed => breed.breed === 'Husky').averageWeight;
+console.log(huskyWeight);
+
+// 2.
+const dogBothActivities = breeds.find(
+  breed =>
+    breed.activities.includes('running') && breed.activities.includes('fetch'),
+).breed;
+console.log(dogBothActivities);
+
+// 3.
+const allActivities = breeds.flatMap(breed => breed.activities);
+console.log(allActivities);
+
+// 4.
+const uniqueActivities = [...new Set(allActivities)];
+console.log(uniqueActivities);
+
+// 5.
+const swimmingAdjacent = [
+  ...new Set(
+    breeds
+      .filter(breed => breed.activities.includes('swimming'))
+      .flatMap(breed => breed.activities)
+      .filter(activity => activity !== 'swimming'),
+  ),
+];
+console.log('ki', swimmingAdjacent);
+
+// 6.
+console.log(breeds.every(breed => breed.averageWeight > 10));
+
+// 7.
+console.log(breeds.some(breed => breed.activities.length >= 3));
+
+// BONUS
+const fetchWeights = breeds
+  .filter(breed => breed.activities.includes('fetch'))
+  .map(breed => breed.averageWeight);
+const heaviestFetchBreed = Math.max(...fetchWeights);
+
+console.log(fetchWeights);
+console.log(heaviestFetchBreed);
