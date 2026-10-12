@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement challenge 04 test data">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement challenge">
+      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/18-sort-method.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/17-challenge-04.js" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/17-challenge-04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,15 +221,8 @@
       <workItem from="1791661383409" duration="228000" />
       <workItem from="1791744269848" duration="492000" />
       <workItem from="1791744780231" duration="368000" />
-      <workItem from="1791748413906" duration="2056000" />
-    </task>
-    <task id="LOCAL-00093" summary="Implement map iteration">
-      <option name="closed" value="true" />
-      <created>1789579576088</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1789579576089</updated>
+      <workItem from="1791748413906" duration="2749000" />
+      <workItem from="1791834093714" duration="1115000" />
     </task>
     <task id="LOCAL-00094" summary="Implement challenge 03">
       <option name="closed" value="true" />
@@ -614,7 +608,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791661605244</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="Implement challenge">
+      <option name="closed" value="true" />
+      <created>1791750500584</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1791750500585</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -632,7 +634,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement foreach whit maps and sets" />
     <MESSAGE value="Implement Bankist app data and DOM elements" />
     <MESSAGE value="Implement DOM manipulation" />
     <MESSAGE value="Implement challenge 01" />
@@ -657,6 +658,7 @@
     <MESSAGE value="Implement separated callback" />
     <MESSAGE value="Implement flat and flatmap methods" />
     <MESSAGE value="Implement challenge 04 test data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement challenge 04 test data" />
+    <MESSAGE value="Implement challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement challenge" />
   </component>
 </project>
