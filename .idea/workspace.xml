@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement sorting movements">
-      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/19-array-grouping.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement array grouping">
+      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/20-array-creation-and-filling.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" afterDir="false" />
     </list>
@@ -223,15 +223,9 @@
       <workItem from="1791744780231" duration="368000" />
       <workItem from="1791748413906" duration="2749000" />
       <workItem from="1791834093714" duration="2261000" />
-      <workItem from="1791914005334" duration="1258000" />
-    </task>
-    <task id="LOCAL-00096" summary="Implement working with strings part 2">
-      <option name="closed" value="true" />
-      <created>1789672438616</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1789672438617</updated>
+      <workItem from="1791914005334" duration="1860000" />
+      <workItem from="1792094520641" duration="38000" />
+      <workItem from="1792262142583" duration="945000" />
     </task>
     <task id="LOCAL-00097" summary="Implement working with strings part 2">
       <option name="closed" value="true" />
@@ -617,7 +611,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791836509113</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="Implement array grouping">
+      <option name="closed" value="true" />
+      <created>1791915748674</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1791915748674</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -635,7 +637,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement challenge 01" />
     <MESSAGE value="Implement the map method" />
     <MESSAGE value="Implement computing username" />
     <MESSAGE value="Implement filter method" />
@@ -660,6 +661,7 @@
     <MESSAGE value="Implement challenge" />
     <MESSAGE value="Implement sort method" />
     <MESSAGE value="Implement sorting movements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement sorting movements" />
+    <MESSAGE value="Implement array grouping" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement array grouping" />
   </component>
 </project>
