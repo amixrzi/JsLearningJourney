@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement array grouping">
-      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/20-array-creation-and-filling.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement empty arrays and fill method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/20-array-creation-and-filling.js" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/20-array-creation-and-filling.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,15 +224,7 @@
       <workItem from="1791834093714" duration="2261000" />
       <workItem from="1791914005334" duration="1860000" />
       <workItem from="1792094520641" duration="38000" />
-      <workItem from="1792262142583" duration="945000" />
-    </task>
-    <task id="LOCAL-00097" summary="Implement working with strings part 2">
-      <option name="closed" value="true" />
-      <created>1789814797453</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1789814797453</updated>
+      <workItem from="1792262142583" duration="1616000" />
     </task>
     <task id="LOCAL-00098" summary="Implement challenge 04">
       <option name="closed" value="true" />
@@ -619,7 +610,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791915748674</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary="Implement empty arrays and fill method">
+      <option name="closed" value="true" />
+      <created>1792264174592</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1792264174592</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -637,7 +636,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement the map method" />
     <MESSAGE value="Implement computing username" />
     <MESSAGE value="Implement filter method" />
     <MESSAGE value="Implement reduce method" />
@@ -662,6 +660,7 @@
     <MESSAGE value="Implement sort method" />
     <MESSAGE value="Implement sorting movements" />
     <MESSAGE value="Implement array grouping" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement array grouping" />
+    <MESSAGE value="Implement empty arrays and fill method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement empty arrays and fill method" />
   </component>
 </project>
