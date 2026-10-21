@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement non-destructive array methods">
-      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/22-array-methods-practice.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement array methods practice">
+      <change afterPath="$PROJECT_DIR$/11-Arrays-Bankist/23-challenge-05.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/11-Arrays-Bankist/index.html" afterDir="false" />
     </list>
@@ -227,15 +227,8 @@
       <workItem from="1792094520641" duration="38000" />
       <workItem from="1792262142583" duration="1817000" />
       <workItem from="1792348856503" duration="1048000" />
-      <workItem from="1792428535107" duration="5184000" />
-    </task>
-    <task id="LOCAL-00100" summary="Implement setup project and add starter HTML files">
-      <option name="closed" value="true" />
-      <created>1789928485825</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1789928485825</updated>
+      <workItem from="1792428535107" duration="6103000" />
+      <workItem from="1792604690874" duration="6551000" />
     </task>
     <task id="LOCAL-00101" summary="Implement default parameters in functions">
       <option name="closed" value="true" />
@@ -621,7 +614,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792349537823</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="Implement array methods practice">
+      <option name="closed" value="true" />
+      <created>1792436492380</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1792436492381</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -639,8 +640,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement reduce method" />
-    <MESSAGE value="Implement calc and display balance" />
     <MESSAGE value="Implement reduce method example" />
     <MESSAGE value="Implement challenge 02" />
     <MESSAGE value="Implement method chaining" />
@@ -664,6 +663,8 @@
     <MESSAGE value="Implement empty arrays and fill method" />
     <MESSAGE value="Implement Array.from" />
     <MESSAGE value="Implement non-destructive array methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement non-destructive array methods" />
+    <MESSAGE value="Implement array methods prac" />
+    <MESSAGE value="Implement array methods practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement array methods practice" />
   </component>
 </project>
