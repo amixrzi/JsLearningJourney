@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement challenge 05">
-      <change afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/Bankist-flowchart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/style.css" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement refactoring code">
+      <change afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/01-converting-and-checking-numbers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,23 +231,7 @@
       <workItem from="1792348856503" duration="1048000" />
       <workItem from="1792428535107" duration="6103000" />
       <workItem from="1792604690874" duration="6872000" />
-      <workItem from="1792692342614" duration="804000" />
-    </task>
-    <task id="LOCAL-00102" summary="Implement passing arguments">
-      <option name="closed" value="true" />
-      <created>1789996365868</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1789996365868</updated>
-    </task>
-    <task id="LOCAL-00103" summary="Implement callback function">
-      <option name="closed" value="true" />
-      <created>1790016647793</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1790016647793</updated>
+      <workItem from="1792692342614" duration="2345000" />
     </task>
     <task id="LOCAL-00104" summary="Implement returning functions">
       <option name="closed" value="true" />
@@ -629,7 +609,23 @@
       <option name="project" value="LOCAL" />
       <updated>1792611800618</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="Implement challenge Implement setup project and add starter files">
+      <option name="closed" value="true" />
+      <created>1792694700523</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1792694700524</updated>
+    </task>
+    <task id="LOCAL-00152" summary="Implement refactoring code">
+      <option name="closed" value="true" />
+      <created>1792694818615</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1792694818615</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -647,8 +643,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement challenge 02" />
-    <MESSAGE value="Implement method chaining" />
     <MESSAGE value="Implement calc and display summary" />
     <MESSAGE value="Implement challenge 03" />
     <MESSAGE value="Implement find method" />
@@ -672,6 +666,8 @@
     <MESSAGE value="Implement array methods prac" />
     <MESSAGE value="Implement array methods practice" />
     <MESSAGE value="Implement challenge 05" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement challenge 05" />
+    <MESSAGE value="Implement challenge Implement setup project and add starter files" />
+    <MESSAGE value="Implement refactoring code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement refactoring code" />
   </component>
 </project>
