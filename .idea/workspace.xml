@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement math and rounding">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/index.html" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement loan request amount rounding">
       <change beforePath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -233,15 +231,7 @@
       <workItem from="1792604690874" duration="6872000" />
       <workItem from="1792692342614" duration="2797000" />
       <workItem from="1793130559185" duration="2851000" />
-      <workItem from="1793206748268" duration="339000" />
-    </task>
-    <task id="LOCAL-00106" summary="Implement bind method">
-      <option name="closed" value="true" />
-      <created>1790106754288</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1790106754288</updated>
+      <workItem from="1793206748268" duration="862000" />
     </task>
     <task id="LOCAL-00107" summary="Implement refactoring code">
       <option name="closed" value="true" />
@@ -627,7 +617,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793132892416</updated>
     </task>
-    <option name="localTasksCounter" value="155" />
+    <task id="LOCAL-00155" summary="Implement loan request amount rounding">
+      <option name="closed" value="true" />
+      <created>1793207302447</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1793207302448</updated>
+    </task>
+    <option name="localTasksCounter" value="156" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -645,7 +643,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement find method" />
     <MESSAGE value="Implement login" />
     <MESSAGE value="Implement transfers" />
     <MESSAGE value="Implement close account" />
@@ -670,6 +667,7 @@
     <MESSAGE value="Implement refactoring code" />
     <MESSAGE value="Implement converting and checking numbers" />
     <MESSAGE value="Implement math and rounding" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement math and rounding" />
+    <MESSAGE value="Implement loan request amount rounding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement loan request amount rounding" />
   </component>
 </project>
