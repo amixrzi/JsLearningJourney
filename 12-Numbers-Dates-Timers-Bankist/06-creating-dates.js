@@ -34,3 +34,23 @@ console.log(new Date(2029, 8, 32));
 
 console.log(new Date(0));
 console.log(new Date(3 * 24 * 60 * 60 * 1000));
+
+// working with date
+const future = new Date(2029, 8, 2, 23, 22);
+console.log(future);
+console.log(future.getFullYear());
+console.log(future.getMonth());
+console.log(future.getDate());
+console.log(future.getDay());
+console.log(future.getHours());
+console.log(future.getMinutes());
+console.log(future.getSeconds());
+console.log(future.toISOString());
+console.log(future.getTime());
+
+console.log(new Date(1883073120000));
+
+console.log(Date.now());
+
+future.setFullYear(2028);
+console.log(future);
