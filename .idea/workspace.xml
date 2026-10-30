@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement current date and time">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement times of movements">
       <change beforePath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -235,15 +234,7 @@
       <workItem from="1793206748268" duration="4699000" />
       <workItem from="1793270828732" duration="1286000" />
       <workItem from="1793300678504" duration="1887000" />
-      <workItem from="1793388771766" duration="1385000" />
-    </task>
-    <task id="LOCAL-00114" summary="Implement simple array methods">
-      <option name="closed" value="true" />
-      <created>1790367398677</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1790367398677</updated>
+      <workItem from="1793388771766" duration="1687000" />
     </task>
     <task id="LOCAL-00115" summary="Implement at method">
       <option name="closed" value="true" />
@@ -629,7 +620,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793390515326</updated>
     </task>
-    <option name="localTasksCounter" value="163" />
+    <task id="LOCAL-00163" summary="Implement times of movements">
+      <option name="closed" value="true" />
+      <created>1793391255223</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1793391255223</updated>
+    </task>
+    <option name="localTasksCounter" value="164" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -647,7 +646,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement separated callback" />
     <MESSAGE value="Implement flat and flatmap methods" />
     <MESSAGE value="Implement challenge 04 test data" />
     <MESSAGE value="Implement challenge" />
@@ -672,6 +670,7 @@
     <MESSAGE value="Implement create a date" />
     <MESSAGE value="Implement working with date" />
     <MESSAGE value="Implement current date and time" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement current date and time" />
+    <MESSAGE value="Implement times of movements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement times of movements" />
   </component>
 </project>
