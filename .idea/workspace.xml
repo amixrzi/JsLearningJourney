@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement add transfer date">
-      <change beforePath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement add loan date">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,15 +234,7 @@
       <workItem from="1793206748268" duration="4699000" />
       <workItem from="1793270828732" duration="1286000" />
       <workItem from="1793300678504" duration="1887000" />
-      <workItem from="1793388771766" duration="2031000" />
-    </task>
-    <task id="LOCAL-00116" summary="Implement foreach">
-      <option name="closed" value="true" />
-      <created>1790447206382</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1790447206382</updated>
+      <workItem from="1793388771766" duration="2482000" />
     </task>
     <task id="LOCAL-00117" summary="Implement foreach whit maps and sets">
       <option name="closed" value="true" />
@@ -628,7 +620,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793391496167</updated>
     </task>
-    <option name="localTasksCounter" value="165" />
+    <task id="LOCAL-00165" summary="Implement add loan date">
+      <option name="closed" value="true" />
+      <created>1793391813460</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1793391813460</updated>
+    </task>
+    <option name="localTasksCounter" value="166" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -646,7 +646,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement challenge 04 test data" />
     <MESSAGE value="Implement challenge" />
     <MESSAGE value="Implement sort method" />
     <MESSAGE value="Implement sorting movements" />
@@ -671,6 +670,7 @@
     <MESSAGE value="Implement current date and time" />
     <MESSAGE value="Implement times of movements" />
     <MESSAGE value="Implement add transfer date" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement add transfer date" />
+    <MESSAGE value="Implement add loan date" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement add loan date" />
   </component>
 </project>
