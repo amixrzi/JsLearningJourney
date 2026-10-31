@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement add loan date">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Fix bug btnSort">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,14 +236,7 @@
       <workItem from="1793270828732" duration="1286000" />
       <workItem from="1793300678504" duration="1887000" />
       <workItem from="1793388771766" duration="2482000" />
-    </task>
-    <task id="LOCAL-00117" summary="Implement foreach whit maps and sets">
-      <option name="closed" value="true" />
-      <created>1790448943428</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1790448943428</updated>
+      <workItem from="1793477249066" duration="1289000" />
     </task>
     <task id="LOCAL-00118" summary="Implement Bankist app data and DOM elements">
       <option name="closed" value="true" />
@@ -628,7 +622,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793391813460</updated>
     </task>
-    <option name="localTasksCounter" value="166" />
+    <task id="LOCAL-00166" summary="Fix bug btnSort">
+      <option name="closed" value="true" />
+      <created>1793477530263</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1793477530265</updated>
+    </task>
+    <option name="localTasksCounter" value="167" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -646,7 +648,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement challenge" />
     <MESSAGE value="Implement sort method" />
     <MESSAGE value="Implement sorting movements" />
     <MESSAGE value="Implement array grouping" />
@@ -671,6 +672,7 @@
     <MESSAGE value="Implement times of movements" />
     <MESSAGE value="Implement add transfer date" />
     <MESSAGE value="Implement add loan date" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement add loan date" />
+    <MESSAGE value="Fix bug btnSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix bug btnSort" />
   </component>
 </project>
