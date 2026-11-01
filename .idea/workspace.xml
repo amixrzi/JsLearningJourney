@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Fix bug sorting">
-      <change afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/07-operations-with-dates.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement date operations and calculate days passed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,15 +238,7 @@
       <workItem from="1793300678504" duration="1887000" />
       <workItem from="1793388771766" duration="2482000" />
       <workItem from="1793477249066" duration="1502000" />
-      <workItem from="1793556173731" duration="1106000" />
-    </task>
-    <task id="LOCAL-00119" summary="Implement DOM manipulation">
-      <option name="closed" value="true" />
-      <created>1790535148426</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1790535148427</updated>
+      <workItem from="1793556173731" duration="3444000" />
     </task>
     <task id="LOCAL-00120" summary="Implement challenge 01">
       <option name="closed" value="true" />
@@ -632,7 +624,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793478744601</updated>
     </task>
-    <option name="localTasksCounter" value="168" />
+    <task id="LOCAL-00168" summary="Implement date operations and calculate days passed">
+      <option name="closed" value="true" />
+      <created>1793558235175</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1793558235176</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -650,7 +650,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement sorting movements" />
     <MESSAGE value="Implement array grouping" />
     <MESSAGE value="Implement empty arrays and fill method" />
     <MESSAGE value="Implement Array.from" />
@@ -675,6 +674,7 @@
     <MESSAGE value="Implement add loan date" />
     <MESSAGE value="Fix bug btnSort" />
     <MESSAGE value="Fix bug sorting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix bug sorting" />
+    <MESSAGE value="Implement date operations and calculate days passed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement date operations and calculate days passed" />
   </component>
 </project>
