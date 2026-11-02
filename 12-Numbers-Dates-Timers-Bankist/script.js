@@ -19,7 +19,7 @@ const account1 = {
     '2026-09-02T10:51:36.790Z',
   ],
   currency: 'EUR',
-  locale: 'pt-PT', // de-DE
+  locale: 'en-PT', // de-DE
 };
 
 const account2 = {
@@ -72,7 +72,7 @@ const inputClosePin = document.querySelector('.form__input--pin');
 
 // Functions
 
-const formatMovementDate = function (date) {
+const formatMovementDate = function (date, locale) {
   const calcDaysPassed = (date1, date2) =>
     Math.round(Math.abs(date1 - date2) / (1000 * 60 * 60 * 24));
 
@@ -83,10 +83,11 @@ const formatMovementDate = function (date) {
   if (daysPassed === 1) return 'Yesterday';
   if (daysPassed <= 7) return `${daysPassed} days ago`;
 
-  const day = `${date.getDate()}`.padStart(2, '0');
-  const month = `${date.getMonth() + 1}`.padStart(2, '0');
-  const year = `${date.getFullYear()}`.padStart(2, '0');
-  return `${day}/${month}/${year}`;
+  // const day = `${date.getDate()}`.padStart(2, '0');
+  // const month = `${date.getMonth() + 1}`.padStart(2, '0');
+  // const year = `${date.getFullYear()}`.padStart(2, '0');
+  // return `${day}/${month}/${year}`;
+  return new Intl.DateTimeFormat(locale).format(date);
 };
 
 const displayMovements = function (acc, sort = false) {
@@ -104,7 +105,7 @@ const displayMovements = function (acc, sort = false) {
     const type = movement > 0 ? 'deposit' : 'withdrawal';
 
     const date = new Date(movementDate);
-    const displayDate = formatMovementDate(date);
+    const displayDate = formatMovementDate(date, acc.locale);
 
     const html = `
       <div class="movements__row">
