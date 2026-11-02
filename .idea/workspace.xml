@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement date operations and calculate days passed">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement date formatting">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -238,15 +237,8 @@
       <workItem from="1793300678504" duration="1887000" />
       <workItem from="1793388771766" duration="2482000" />
       <workItem from="1793477249066" duration="1502000" />
-      <workItem from="1793556173731" duration="3444000" />
-    </task>
-    <task id="LOCAL-00120" summary="Implement challenge 01">
-      <option name="closed" value="true" />
-      <created>1790538359500</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1790538359500</updated>
+      <workItem from="1793556173731" duration="4157000" />
+      <workItem from="1793638364077" duration="667000" />
     </task>
     <task id="LOCAL-00121" summary="Implement the map method">
       <option name="closed" value="true" />
@@ -632,7 +624,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793558235176</updated>
     </task>
-    <option name="localTasksCounter" value="169" />
+    <task id="LOCAL-00169" summary="Implement date formatting">
+      <option name="closed" value="true" />
+      <created>1793563137265</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1793563137265</updated>
+    </task>
+    <option name="localTasksCounter" value="170" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -650,7 +650,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement array grouping" />
     <MESSAGE value="Implement empty arrays and fill method" />
     <MESSAGE value="Implement Array.from" />
     <MESSAGE value="Implement non-destructive array methods" />
@@ -675,6 +674,7 @@
     <MESSAGE value="Fix bug btnSort" />
     <MESSAGE value="Fix bug sorting" />
     <MESSAGE value="Implement date operations and calculate days passed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement date operations and calculate days passed" />
+    <MESSAGE value="Implement date formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement date formatting" />
   </component>
 </project>
