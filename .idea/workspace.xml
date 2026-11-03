@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement localized currency formatting for account movements">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Refactor currency formatting into a reusable function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" afterDir="false" />
     </list>
@@ -239,15 +239,7 @@
       <workItem from="1793477249066" duration="1502000" />
       <workItem from="1793556173731" duration="4157000" />
       <workItem from="1793638364077" duration="1792000" />
-      <workItem from="1793731246267" duration="2298000" />
-    </task>
-    <task id="LOCAL-00125" summary="Implement calc and display balance">
-      <option name="closed" value="true" />
-      <created>1790713090174</created>
-      <option name="number" value="00125" />
-      <option name="presentableId" value="LOCAL-00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1790713090176</updated>
+      <workItem from="1793731246267" duration="2704000" />
     </task>
     <task id="LOCAL-00126" summary="Implement reduce method example">
       <option name="closed" value="true" />
@@ -633,7 +625,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793735478635</updated>
     </task>
-    <option name="localTasksCounter" value="174" />
+    <task id="LOCAL-00174" summary="Refactor currency formatting into a reusable function">
+      <option name="closed" value="true" />
+      <created>1793735979024</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1793735979024</updated>
+    </task>
+    <option name="localTasksCounter" value="175" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -651,7 +651,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement array methods practice" />
     <MESSAGE value="Implement challenge 05" />
     <MESSAGE value="Implement challenge Implement setup project and add starter files" />
     <MESSAGE value="Implement refactoring code" />
@@ -676,6 +675,7 @@
     <MESSAGE value="Implement localized date formatting for account movements" />
     <MESSAGE value="Implement Internationalizing Numbers" />
     <MESSAGE value="Implement localized currency formatting for account movements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement localized currency formatting for account movements" />
+    <MESSAGE value="Refactor currency formatting into a reusable function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor currency formatting into a reusable function" />
   </component>
 </project>
