@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement localized date formatting with Intl.DateTimeFormat">
-      <change beforePath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement localized date formatting for account movements">
+      <change afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/08-internationalizing-numbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,15 +238,8 @@
       <workItem from="1793388771766" duration="2482000" />
       <workItem from="1793477249066" duration="1502000" />
       <workItem from="1793556173731" duration="4157000" />
-      <workItem from="1793638364077" duration="1154000" />
-    </task>
-    <task id="LOCAL-00122" summary="Implement computing username">
-      <option name="closed" value="true" />
-      <created>1790616306562</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1790616306562</updated>
+      <workItem from="1793638364077" duration="1792000" />
+      <workItem from="1793731246267" duration="565000" />
     </task>
     <task id="LOCAL-00123" summary="Implement filter method">
       <option name="closed" value="true" />
@@ -631,7 +625,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793639097305</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="Implement localized date formatting for account movements">
+      <option name="closed" value="true" />
+      <created>1793639840905</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1793639840905</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -649,7 +651,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement Array.from" />
     <MESSAGE value="Implement non-destructive array methods" />
     <MESSAGE value="Implement array methods prac" />
     <MESSAGE value="Implement array methods practice" />
@@ -674,6 +675,7 @@
     <MESSAGE value="Implement date operations and calculate days passed" />
     <MESSAGE value="Implement date formatting" />
     <MESSAGE value="Implement localized date formatting with Intl.DateTimeFormat" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement localized date formatting with Intl.DateTimeFormat" />
+    <MESSAGE value="Implement localized date formatting for account movements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement localized date formatting for account movements" />
   </component>
 </project>
