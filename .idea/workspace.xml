@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement localized date formatting for account movements">
-      <change afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/08-internationalizing-numbers.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement Internationalizing Numbers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,15 +240,7 @@
       <workItem from="1793477249066" duration="1502000" />
       <workItem from="1793556173731" duration="4157000" />
       <workItem from="1793638364077" duration="1792000" />
-      <workItem from="1793731246267" duration="565000" />
-    </task>
-    <task id="LOCAL-00123" summary="Implement filter method">
-      <option name="closed" value="true" />
-      <created>1790617371832</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1790617371835</updated>
+      <workItem from="1793731246267" duration="1593000" />
     </task>
     <task id="LOCAL-00124" summary="Implement reduce method">
       <option name="closed" value="true" />
@@ -633,7 +626,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793639840905</updated>
     </task>
-    <option name="localTasksCounter" value="172" />
+    <task id="LOCAL-00172" summary="Implement Internationalizing Numbers">
+      <option name="closed" value="true" />
+      <created>1793732107422</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1793732107424</updated>
+    </task>
+    <option name="localTasksCounter" value="173" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -651,7 +652,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement non-destructive array methods" />
     <MESSAGE value="Implement array methods prac" />
     <MESSAGE value="Implement array methods practice" />
     <MESSAGE value="Implement challenge 05" />
@@ -676,6 +676,7 @@
     <MESSAGE value="Implement date formatting" />
     <MESSAGE value="Implement localized date formatting with Intl.DateTimeFormat" />
     <MESSAGE value="Implement localized date formatting for account movements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement localized date formatting for account movements" />
+    <MESSAGE value="Implement Internationalizing Numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement Internationalizing Numbers" />
   </component>
 </project>
