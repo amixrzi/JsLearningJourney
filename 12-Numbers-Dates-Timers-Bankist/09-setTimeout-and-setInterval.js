@@ -12,7 +12,19 @@ console.log('Waiting for your pizza');
 if (!ingredients.includes('spinach')) clearTimeout(pizzaTimer);
 
 // setInterval
+
+// setInterval(function () {
+//   const now = new Date();
+//   console.log(now);
+// }, 3000);
+
+// Challenge
 setInterval(function () {
   const now = new Date();
-  console.log(now);
-}, 3000);
+  const option = {
+    hour: 'numeric',
+    minute: 'numeric',
+    second: 'numeric',
+  };
+  console.log(Intl.DateTimeFormat(navigator.language, option).format(now));
+}, 1000);
