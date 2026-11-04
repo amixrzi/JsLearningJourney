@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement setTimeout">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/script.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement loan approval simulation with setTimeout">
+      <change beforePath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/09-setTimeout.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-Numbers-Dates-Timers-Bankist/09-setTimeout-and-setInterval.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,15 +239,7 @@
       <workItem from="1793556173731" duration="4157000" />
       <workItem from="1793638364077" duration="1792000" />
       <workItem from="1793731246267" duration="3527000" />
-      <workItem from="1793820617195" duration="696000" />
-    </task>
-    <task id="LOCAL-00128" summary="Implement method chaining">
-      <option name="closed" value="true" />
-      <created>1790883533994</created>
-      <option name="number" value="00128" />
-      <option name="presentableId" value="LOCAL-00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1790883533994</updated>
+      <workItem from="1793820617195" duration="1242000" />
     </task>
     <task id="LOCAL-00129" summary="Implement calc and display summary">
       <option name="closed" value="true" />
@@ -634,7 +625,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793821067508</updated>
     </task>
-    <option name="localTasksCounter" value="177" />
+    <task id="LOCAL-00177" summary="Implement loan approval simulation with setTimeout">
+      <option name="closed" value="true" />
+      <created>1793821547147</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1793821547147</updated>
+    </task>
+    <option name="localTasksCounter" value="178" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -652,7 +651,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement refactoring code" />
     <MESSAGE value="Implement converting and checking numbers" />
     <MESSAGE value="Implement math and rounding" />
     <MESSAGE value="Implement loan request amount rounding" />
@@ -677,6 +675,7 @@
     <MESSAGE value="Refactor currency formatting into a reusable function" />
     <MESSAGE value="Implement localized number formatting for account statistics" />
     <MESSAGE value="Implement setTimeout" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement setTimeout" />
+    <MESSAGE value="Implement loan approval simulation with setTimeout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement loan approval simulation with setTimeout" />
   </component>
 </project>
