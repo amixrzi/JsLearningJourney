@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement a countdown timer">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement setup project and add starter files">
+      <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,11 +85,11 @@
       <recent name="D:\js-learning-journey\01-Fundamentals-Part-1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\js-learning-journey\13-Advanced-DOM-Bankist" />
       <recent name="D:\js-learning-journey\12-Numbers-Dates-Timers-Bankist" />
       <recent name="D:\js-learning-journey\11-Arrays-Bankist" />
       <recent name="D:\js-learning-journey\10-Functions" />
       <recent name="D:\js-learning-journey\09-Data-Structures-Operators" />
-      <recent name="D:\js-learning-journey\08-Behind-the-Scenes" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -242,15 +242,7 @@
       <workItem from="1793820617195" duration="3253000" />
       <workItem from="1793907489906" duration="2834000" />
       <workItem from="1793914543560" duration="678000" />
-      <workItem from="1793995319002" duration="604000" />
-    </task>
-    <task id="LOCAL-00132" summary="Implement login">
-      <option name="closed" value="true" />
-      <created>1790974870127</created>
-      <option name="number" value="00132" />
-      <option name="presentableId" value="LOCAL-00132" />
-      <option name="project" value="LOCAL" />
-      <updated>1790974870127</updated>
+      <workItem from="1793995319002" duration="959000" />
     </task>
     <task id="LOCAL-00133" summary="Implement transfers">
       <option name="closed" value="true" />
@@ -636,7 +628,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793910512017</updated>
     </task>
-    <option name="localTasksCounter" value="181" />
+    <task id="LOCAL-00181" summary="Implement setup project and add starter files">
+      <option name="closed" value="true" />
+      <created>1793997814514</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1793997814515</updated>
+    </task>
+    <option name="localTasksCounter" value="182" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -654,7 +654,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement formatted number display using toFixed" />
     <MESSAGE value="Implement remainder operator" />
     <MESSAGE value="Implement numeric separators" />
     <MESSAGE value="Implement bigint" />
@@ -679,6 +678,7 @@
     <MESSAGE value="Implement setInterval" />
     <MESSAGE value="Implement challenge 01" />
     <MESSAGE value="Implement a countdown timer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement a countdown timer" />
+    <MESSAGE value="Implement setup project and add starter files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement setup project and add starter files" />
   </component>
 </project>
