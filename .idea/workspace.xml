@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement setup project and add starter files">
-      <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Refactor modal event listeners using forEach">
+      <change afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/01-selecting-creating-and-deleting-elements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,23 +244,9 @@
       <workItem from="1793820617195" duration="3253000" />
       <workItem from="1793907489906" duration="2834000" />
       <workItem from="1793914543560" duration="678000" />
-      <workItem from="1793995319002" duration="959000" />
-    </task>
-    <task id="LOCAL-00133" summary="Implement transfers">
-      <option name="closed" value="true" />
-      <created>1791145048754</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1791145048767</updated>
-    </task>
-    <task id="LOCAL-00134" summary="Implement close account">
-      <option name="closed" value="true" />
-      <created>1791224398627</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1791224398629</updated>
+      <workItem from="1793995319002" duration="2433000" />
+      <workItem from="1793999385584" duration="867000" />
+      <workItem from="1794338756954" duration="986000" />
     </task>
     <task id="LOCAL-00135" summary="Implement findLast and findLastIndex">
       <option name="closed" value="true" />
@@ -636,7 +624,23 @@
       <option name="project" value="LOCAL" />
       <updated>1793997814515</updated>
     </task>
-    <option name="localTasksCounter" value="182" />
+    <task id="LOCAL-00182" summary="Fix default form submission when opening modal">
+      <option name="closed" value="true" />
+      <created>1793997998906</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1793997998906</updated>
+    </task>
+    <task id="LOCAL-00183" summary="Refactor modal event listeners using forEach">
+      <option name="closed" value="true" />
+      <created>1793998939500</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1793998939500</updated>
+    </task>
+    <option name="localTasksCounter" value="184" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -654,8 +658,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement remainder operator" />
-    <MESSAGE value="Implement numeric separators" />
     <MESSAGE value="Implement bigint" />
     <MESSAGE value="Implement create a date" />
     <MESSAGE value="Implement working with date" />
@@ -679,6 +681,8 @@
     <MESSAGE value="Implement challenge 01" />
     <MESSAGE value="Implement a countdown timer" />
     <MESSAGE value="Implement setup project and add starter files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement setup project and add starter files" />
+    <MESSAGE value="Fix default form submission when opening modal" />
+    <MESSAGE value="Refactor modal event listeners using forEach" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor modal event listeners using forEach" />
   </component>
 </project>
