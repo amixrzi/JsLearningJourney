@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Refactor modal event listeners using forEach">
-      <change afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/01-selecting-creating-and-deleting-elements.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement selecting elements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/01-selecting-creating-and-deleting-elements.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/01-selecting-creating-and-deleting-elements.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,15 +245,7 @@
       <workItem from="1793914543560" duration="678000" />
       <workItem from="1793995319002" duration="2433000" />
       <workItem from="1793999385584" duration="867000" />
-      <workItem from="1794338756954" duration="986000" />
-    </task>
-    <task id="LOCAL-00135" summary="Implement findLast and findLastIndex">
-      <option name="closed" value="true" />
-      <created>1791226054219</created>
-      <option name="number" value="00135" />
-      <option name="presentableId" value="LOCAL-00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1791226054219</updated>
+      <workItem from="1794338756954" duration="2218000" />
     </task>
     <task id="LOCAL-00136" summary="Implement some method">
       <option name="closed" value="true" />
@@ -640,7 +631,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793998939500</updated>
     </task>
-    <option name="localTasksCounter" value="184" />
+    <task id="LOCAL-00184" summary="Implement selecting elements">
+      <option name="closed" value="true" />
+      <created>1794340820503</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1794340820505</updated>
+    </task>
+    <option name="localTasksCounter" value="185" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -658,7 +657,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement bigint" />
     <MESSAGE value="Implement create a date" />
     <MESSAGE value="Implement working with date" />
     <MESSAGE value="Implement current date and time" />
@@ -683,6 +681,7 @@
     <MESSAGE value="Implement setup project and add starter files" />
     <MESSAGE value="Fix default form submission when opening modal" />
     <MESSAGE value="Refactor modal event listeners using forEach" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor modal event listeners using forEach" />
+    <MESSAGE value="Implement selecting elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement selecting elements" />
   </component>
 </project>
