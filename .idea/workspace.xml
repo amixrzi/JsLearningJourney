@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement delete elements">
-      <change afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/02-styles-attributes-and-classes.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement DOM styling and computed style manipulation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,15 +245,7 @@
       <workItem from="1793995319002" duration="2433000" />
       <workItem from="1793999385584" duration="867000" />
       <workItem from="1794338756954" duration="3804000" />
-      <workItem from="1794514114072" duration="313000" />
-    </task>
-    <task id="LOCAL-00138" summary="Implement every method">
-      <option name="closed" value="true" />
-      <created>1791318268879</created>
-      <option name="number" value="00138" />
-      <option name="presentableId" value="LOCAL-00138" />
-      <option name="project" value="LOCAL" />
-      <updated>1791318268879</updated>
+      <workItem from="1794514114072" duration="1071000" />
     </task>
     <task id="LOCAL-00139" summary="Implement separated callback">
       <option name="closed" value="true" />
@@ -641,7 +631,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794342277352</updated>
     </task>
-    <option name="localTasksCounter" value="187" />
+    <task id="LOCAL-00187" summary="Implement DOM styling and computed style manipulation">
+      <option name="closed" value="true" />
+      <created>1794514715414</created>
+      <option name="number" value="00187" />
+      <option name="presentableId" value="LOCAL-00187" />
+      <option name="project" value="LOCAL" />
+      <updated>1794514715415</updated>
+    </task>
+    <option name="localTasksCounter" value="188" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -659,7 +657,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement current date and time" />
     <MESSAGE value="Implement times of movements" />
     <MESSAGE value="Implement add transfer date" />
     <MESSAGE value="Implement add loan date" />
@@ -684,6 +681,7 @@
     <MESSAGE value="Implement selecting elements" />
     <MESSAGE value="Implement creating and inserting elements" />
     <MESSAGE value="Implement delete elements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement delete elements" />
+    <MESSAGE value="Implement DOM styling and computed style manipulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement DOM styling and computed style manipulation" />
   </component>
 </project>
