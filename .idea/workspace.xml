@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement creating and inserting elements">
-      <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/01-selecting-creating-and-deleting-elements.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/01-selecting-creating-and-deleting-elements.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement delete elements">
+      <change afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/02-styles-attributes-and-classes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,15 +246,8 @@
       <workItem from="1793914543560" duration="678000" />
       <workItem from="1793995319002" duration="2433000" />
       <workItem from="1793999385584" duration="867000" />
-      <workItem from="1794338756954" duration="2522000" />
-    </task>
-    <task id="LOCAL-00137" summary="Implement request loan">
-      <option name="closed" value="true" />
-      <created>1791317765234</created>
-      <option name="number" value="00137" />
-      <option name="presentableId" value="LOCAL-00137" />
-      <option name="project" value="LOCAL" />
-      <updated>1791317765235</updated>
+      <workItem from="1794338756954" duration="3804000" />
+      <workItem from="1794514114072" duration="313000" />
     </task>
     <task id="LOCAL-00138" summary="Implement every method">
       <option name="closed" value="true" />
@@ -638,7 +633,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794341911498</updated>
     </task>
-    <option name="localTasksCounter" value="186" />
+    <task id="LOCAL-00186" summary="Implement delete elements">
+      <option name="closed" value="true" />
+      <created>1794342277351</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1794342277352</updated>
+    </task>
+    <option name="localTasksCounter" value="187" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -656,7 +659,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement working with date" />
     <MESSAGE value="Implement current date and time" />
     <MESSAGE value="Implement times of movements" />
     <MESSAGE value="Implement add transfer date" />
@@ -681,6 +683,7 @@
     <MESSAGE value="Refactor modal event listeners using forEach" />
     <MESSAGE value="Implement selecting elements" />
     <MESSAGE value="Implement creating and inserting elements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement creating and inserting elements" />
+    <MESSAGE value="Implement delete elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement delete elements" />
   </component>
 </project>
