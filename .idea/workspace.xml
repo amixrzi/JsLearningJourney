@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement DOM styling and computed style manipulation">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement DOM class manipulation using classList">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,23 +247,8 @@
       <workItem from="1793995319002" duration="2433000" />
       <workItem from="1793999385584" duration="867000" />
       <workItem from="1794338756954" duration="3804000" />
-      <workItem from="1794514114072" duration="1071000" />
-    </task>
-    <task id="LOCAL-00139" summary="Implement separated callback">
-      <option name="closed" value="true" />
-      <created>1791318405189</created>
-      <option name="number" value="00139" />
-      <option name="presentableId" value="LOCAL-00139" />
-      <option name="project" value="LOCAL" />
-      <updated>1791318405189</updated>
-    </task>
-    <task id="LOCAL-00140" summary="Implement flat and flatmap methods">
-      <option name="closed" value="true" />
-      <created>1791401825920</created>
-      <option name="number" value="00140" />
-      <option name="presentableId" value="LOCAL-00140" />
-      <option name="project" value="LOCAL" />
-      <updated>1791401825920</updated>
+      <workItem from="1794514114072" duration="2037000" />
+      <workItem from="1794596664377" duration="823000" />
     </task>
     <task id="LOCAL-00141" summary="Implement challenge 04 test data">
       <option name="closed" value="true" />
@@ -639,7 +626,23 @@
       <option name="project" value="LOCAL" />
       <updated>1794514715415</updated>
     </task>
-    <option name="localTasksCounter" value="188" />
+    <task id="LOCAL-00188" summary="Implement DOM attribute manipulation and data attribute access">
+      <option name="closed" value="true" />
+      <created>1794515297260</created>
+      <option name="number" value="00188" />
+      <option name="presentableId" value="LOCAL-00188" />
+      <option name="project" value="LOCAL" />
+      <updated>1794515297260</updated>
+    </task>
+    <task id="LOCAL-00189" summary="Implement DOM class manipulation using classList">
+      <option name="closed" value="true" />
+      <created>1794515362134</created>
+      <option name="number" value="00189" />
+      <option name="presentableId" value="LOCAL-00189" />
+      <option name="project" value="LOCAL" />
+      <updated>1794515362134</updated>
+    </task>
+    <option name="localTasksCounter" value="190" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -657,8 +660,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement times of movements" />
-    <MESSAGE value="Implement add transfer date" />
     <MESSAGE value="Implement add loan date" />
     <MESSAGE value="Fix bug btnSort" />
     <MESSAGE value="Fix bug sorting" />
@@ -682,6 +683,8 @@
     <MESSAGE value="Implement creating and inserting elements" />
     <MESSAGE value="Implement delete elements" />
     <MESSAGE value="Implement DOM styling and computed style manipulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement DOM styling and computed style manipulation" />
+    <MESSAGE value="Implement DOM attribute manipulation and data attribute access" />
+    <MESSAGE value="Implement DOM class manipulation using classList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement DOM class manipulation using classList" />
   </component>
 </project>
