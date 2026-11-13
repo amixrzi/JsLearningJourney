@@ -48,5 +48,11 @@ btnScrollTo.addEventListener('click', function (e) {
   );
 
   // Scrolling
-  window.scrollTo(s1coords.left + scrollX, s1coords.top + scrollY);
+  // window.scrollTo(s1coords.left + scrollX, s1coords.top + scrollY);
+
+  window.scrollTo({
+    left: s1coords.left + scrollX,
+    top: s1coords.top + scrollY,
+    behavior: 'smooth',
+  });
 });
