@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement DOM class manipulation using classList">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Refactor smooth scrolling using scrollIntoView">
+      <change afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/03-types-of-events-and-event-handlers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,31 +248,8 @@
       <workItem from="1793999385584" duration="867000" />
       <workItem from="1794338756954" duration="3804000" />
       <workItem from="1794514114072" duration="2037000" />
-      <workItem from="1794596664377" duration="823000" />
-    </task>
-    <task id="LOCAL-00141" summary="Implement challenge 04 test data">
-      <option name="closed" value="true" />
-      <created>1791661605244</created>
-      <option name="number" value="00141" />
-      <option name="presentableId" value="LOCAL-00141" />
-      <option name="project" value="LOCAL" />
-      <updated>1791661605244</updated>
-    </task>
-    <task id="LOCAL-00142" summary="Implement challenge">
-      <option name="closed" value="true" />
-      <created>1791750500584</created>
-      <option name="number" value="00142" />
-      <option name="presentableId" value="LOCAL-00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1791750500585</updated>
-    </task>
-    <task id="LOCAL-00143" summary="Implement sort method">
-      <option name="closed" value="true" />
-      <created>1791835580774</created>
-      <option name="number" value="00143" />
-      <option name="presentableId" value="LOCAL-00143" />
-      <option name="project" value="LOCAL" />
-      <updated>1791835580775</updated>
+      <workItem from="1794596664377" duration="1254000" />
+      <workItem from="1794765926259" duration="1851000" />
     </task>
     <task id="LOCAL-00144" summary="Implement sorting movements">
       <option name="closed" value="true" />
@@ -642,7 +619,31 @@
       <option name="project" value="LOCAL" />
       <updated>1794515362134</updated>
     </task>
-    <option name="localTasksCounter" value="190" />
+    <task id="LOCAL-00190" summary="Implement scrolling to page sections">
+      <option name="closed" value="true" />
+      <created>1794597500743</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1794597500744</updated>
+    </task>
+    <task id="LOCAL-00191" summary="Implement smooth scrolling to page sections">
+      <option name="closed" value="true" />
+      <created>1794597729104</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1794597729104</updated>
+    </task>
+    <task id="LOCAL-00192" summary="Refactor smooth scrolling using scrollIntoView">
+      <option name="closed" value="true" />
+      <created>1794597844536</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1794597844536</updated>
+    </task>
+    <option name="localTasksCounter" value="193" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -660,9 +661,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement add loan date" />
-    <MESSAGE value="Fix bug btnSort" />
-    <MESSAGE value="Fix bug sorting" />
     <MESSAGE value="Implement date operations and calculate days passed" />
     <MESSAGE value="Implement date formatting" />
     <MESSAGE value="Implement localized date formatting with Intl.DateTimeFormat" />
@@ -685,6 +683,9 @@
     <MESSAGE value="Implement DOM styling and computed style manipulation" />
     <MESSAGE value="Implement DOM attribute manipulation and data attribute access" />
     <MESSAGE value="Implement DOM class manipulation using classList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement DOM class manipulation using classList" />
+    <MESSAGE value="Implement scrolling to page sections" />
+    <MESSAGE value="Implement smooth scrolling to page sections" />
+    <MESSAGE value="Refactor smooth scrolling using scrollIntoView" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor smooth scrolling using scrollIntoView" />
   </component>
 </project>
