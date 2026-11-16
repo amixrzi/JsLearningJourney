@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Refactor smooth scrolling using scrollIntoView">
-      <change afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/03-types-of-events-and-event-handlers.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement types of events and event handlers">
+      <change afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/04-event-propagation-in-practice.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" afterDir="false" />
     </list>
@@ -249,15 +249,8 @@
       <workItem from="1794338756954" duration="3804000" />
       <workItem from="1794514114072" duration="2037000" />
       <workItem from="1794596664377" duration="1254000" />
-      <workItem from="1794765926259" duration="1851000" />
-    </task>
-    <task id="LOCAL-00144" summary="Implement sorting movements">
-      <option name="closed" value="true" />
-      <created>1791836509113</created>
-      <option name="number" value="00144" />
-      <option name="presentableId" value="LOCAL-00144" />
-      <option name="project" value="LOCAL" />
-      <updated>1791836509113</updated>
+      <workItem from="1794765926259" duration="3370000" />
+      <workItem from="1794847880544" duration="1012000" />
     </task>
     <task id="LOCAL-00145" summary="Implement array grouping">
       <option name="closed" value="true" />
@@ -643,7 +636,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794597844536</updated>
     </task>
-    <option name="localTasksCounter" value="193" />
+    <task id="LOCAL-00193" summary="Implement types of events and event handlers">
+      <option name="closed" value="true" />
+      <created>1794773066805</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1794773066807</updated>
+    </task>
+    <option name="localTasksCounter" value="194" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -661,7 +662,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement date operations and calculate days passed" />
     <MESSAGE value="Implement date formatting" />
     <MESSAGE value="Implement localized date formatting with Intl.DateTimeFormat" />
     <MESSAGE value="Implement localized date formatting for account movements" />
@@ -686,6 +686,7 @@
     <MESSAGE value="Implement scrolling to page sections" />
     <MESSAGE value="Implement smooth scrolling to page sections" />
     <MESSAGE value="Refactor smooth scrolling using scrollIntoView" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor smooth scrolling using scrollIntoView" />
+    <MESSAGE value="Implement types of events and event handlers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement types of events and event handlers" />
   </component>
 </project>
