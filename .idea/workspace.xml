@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement smooth page navigation using event listeners">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Refactor page navigation using event delegation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,15 +248,8 @@
       <workItem from="1794514114072" duration="2037000" />
       <workItem from="1794596664377" duration="1254000" />
       <workItem from="1794765926259" duration="3370000" />
-      <workItem from="1794847880544" duration="3731000" />
-    </task>
-    <task id="LOCAL-00147" summary="Implement Array.from">
-      <option name="closed" value="true" />
-      <created>1792264741853</created>
-      <option name="number" value="00147" />
-      <option name="presentableId" value="LOCAL-00147" />
-      <option name="project" value="LOCAL" />
-      <updated>1792264741853</updated>
+      <workItem from="1794847880544" duration="3871000" />
+      <workItem from="1794852679392" duration="4000" />
     </task>
     <task id="LOCAL-00148" summary="Implement non-destructive array methods">
       <option name="closed" value="true" />
@@ -643,7 +635,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794850595374</updated>
     </task>
-    <option name="localTasksCounter" value="196" />
+    <task id="LOCAL-00196" summary="Refactor page navigation using event delegation">
+      <option name="closed" value="true" />
+      <created>1794851677754</created>
+      <option name="number" value="00196" />
+      <option name="presentableId" value="LOCAL-00196" />
+      <option name="project" value="LOCAL" />
+      <updated>1794851677754</updated>
+    </task>
+    <option name="localTasksCounter" value="197" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -661,7 +661,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement localized date formatting for account movements" />
     <MESSAGE value="Implement Internationalizing Numbers" />
     <MESSAGE value="Implement localized currency formatting for account movements" />
     <MESSAGE value="Refactor currency formatting into a reusable function" />
@@ -686,6 +685,7 @@
     <MESSAGE value="Implement types of events and event handlers" />
     <MESSAGE value="Implement event propagation and event bubbling" />
     <MESSAGE value="Implement smooth page navigation using event listeners" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement smooth page navigation using event listeners" />
+    <MESSAGE value="Refactor page navigation using event delegation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor page navigation using event delegation" />
   </component>
 </project>
