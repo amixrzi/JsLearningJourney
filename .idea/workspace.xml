@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement DOM sibling element traversal">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement tabbed component">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -253,15 +252,7 @@
       <workItem from="1794847880544" duration="3871000" />
       <workItem from="1794852679392" duration="4000" />
       <workItem from="1794946021695" duration="1436000" />
-      <workItem from="1795027085450" duration="1335000" />
-    </task>
-    <task id="LOCAL-00151" summary="Implement challenge Implement setup project and add starter files">
-      <option name="closed" value="true" />
-      <created>1792694700523</created>
-      <option name="number" value="00151" />
-      <option name="presentableId" value="LOCAL-00151" />
-      <option name="project" value="LOCAL" />
-      <updated>1792694700524</updated>
+      <workItem from="1795027085450" duration="2663000" />
     </task>
     <task id="LOCAL-00152" summary="Implement refactoring code">
       <option name="closed" value="true" />
@@ -647,7 +638,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794947345223</updated>
     </task>
-    <option name="localTasksCounter" value="200" />
+    <task id="LOCAL-00200" summary="Implement tabbed component with interactive tab switching">
+      <option name="closed" value="true" />
+      <created>1795029049627</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1795029049628</updated>
+    </task>
+    <option name="localTasksCounter" value="201" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -665,8 +664,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement localized number formatting for account statistics" />
-    <MESSAGE value="Implement setTimeout" />
     <MESSAGE value="Implement loan approval simulation with setTimeout" />
     <MESSAGE value="Implement setInterval" />
     <MESSAGE value="Implement challenge 01" />
@@ -690,6 +687,8 @@
     <MESSAGE value="Implement DOM child element traversal" />
     <MESSAGE value="Implement DOM parent element traversal" />
     <MESSAGE value="Implement DOM sibling element traversal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement DOM sibling element traversal" />
+    <MESSAGE value="Implement tabbed component" />
+    <MESSAGE value="Implement tabbed component" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement tabbed component" />
   </component>
 </project>
