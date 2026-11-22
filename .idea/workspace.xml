@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement sticky navigation with intersection observer API">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement reveal section">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" afterDir="false" />
     </list>
@@ -254,15 +254,8 @@
       <workItem from="1794946021695" duration="1436000" />
       <workItem from="1795027085450" duration="4569000" />
       <workItem from="1795118695032" duration="915000" />
-      <workItem from="1795203537776" duration="2808000" />
-    </task>
-    <task id="LOCAL-00157" summary="Implement remainder operator">
-      <option name="closed" value="true" />
-      <created>1793209316165</created>
-      <option name="number" value="00157" />
-      <option name="presentableId" value="LOCAL-00157" />
-      <option name="project" value="LOCAL" />
-      <updated>1793209316165</updated>
+      <workItem from="1795203537776" duration="3101000" />
+      <workItem from="1795373542510" duration="314000" />
     </task>
     <task id="LOCAL-00158" summary="Implement numeric separators">
       <option name="closed" value="true" />
@@ -648,7 +641,15 @@
       <option name="project" value="LOCAL" />
       <updated>1795205090172</updated>
     </task>
-    <option name="localTasksCounter" value="206" />
+    <task id="LOCAL-00206" summary="Implement reveal section">
+      <option name="closed" value="true" />
+      <created>1795207221803</created>
+      <option name="number" value="00206" />
+      <option name="presentableId" value="LOCAL-00206" />
+      <option name="project" value="LOCAL" />
+      <updated>1795207221803</updated>
+    </task>
+    <option name="localTasksCounter" value="207" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -666,7 +667,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fix default form submission when opening modal" />
     <MESSAGE value="Refactor modal event listeners using forEach" />
     <MESSAGE value="Implement selecting elements" />
     <MESSAGE value="Implement creating and inserting elements" />
@@ -691,6 +691,7 @@
     <MESSAGE value="Implement sticky navigation" />
     <MESSAGE value="Implement intersection observer API" />
     <MESSAGE value="Implement sticky navigation with intersection observer API" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement sticky navigation with intersection observer API" />
+    <MESSAGE value="Implement reveal section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement reveal section" />
   </component>
 </project>
