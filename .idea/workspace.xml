@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement reveal section">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Fixing a small scrolling bug">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" afterDir="false" />
     </list>
@@ -255,15 +255,8 @@
       <workItem from="1795027085450" duration="4569000" />
       <workItem from="1795118695032" duration="915000" />
       <workItem from="1795203537776" duration="3101000" />
-      <workItem from="1795373542510" duration="314000" />
-    </task>
-    <task id="LOCAL-00158" summary="Implement numeric separators">
-      <option name="closed" value="true" />
-      <created>1793215393537</created>
-      <option name="number" value="00158" />
-      <option name="presentableId" value="LOCAL-00158" />
-      <option name="project" value="LOCAL" />
-      <updated>1793215393537</updated>
+      <workItem from="1795373542510" duration="2557000" />
+      <workItem from="1795546109883" duration="1811000" />
     </task>
     <task id="LOCAL-00159" summary="Implement bigint">
       <option name="closed" value="true" />
@@ -649,7 +642,15 @@
       <option name="project" value="LOCAL" />
       <updated>1795207221803</updated>
     </task>
-    <option name="localTasksCounter" value="207" />
+    <task id="LOCAL-00207" summary="Fixing a small scrolling bug">
+      <option name="closed" value="true" />
+      <created>1795373949221</created>
+      <option name="number" value="00207" />
+      <option name="presentableId" value="LOCAL-00207" />
+      <option name="project" value="LOCAL" />
+      <updated>1795373949222</updated>
+    </task>
+    <option name="localTasksCounter" value="208" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -667,7 +668,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Refactor modal event listeners using forEach" />
     <MESSAGE value="Implement selecting elements" />
     <MESSAGE value="Implement creating and inserting elements" />
     <MESSAGE value="Implement delete elements" />
@@ -692,6 +692,7 @@
     <MESSAGE value="Implement intersection observer API" />
     <MESSAGE value="Implement sticky navigation with intersection observer API" />
     <MESSAGE value="Implement reveal section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement reveal section" />
+    <MESSAGE value="Fixing a small scrolling bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing a small scrolling bug" />
   </component>
 </project>
