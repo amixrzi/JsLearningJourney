@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Refactor slider component">
-      <change afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/07-lifecycle-dom-events.js" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement DOMContentLoaded and load event listeners">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -256,15 +257,7 @@
       <workItem from="1795203537776" duration="3101000" />
       <workItem from="1795373542510" duration="2557000" />
       <workItem from="1795546109883" duration="5362000" />
-      <workItem from="1795723719672" duration="3708000" />
-    </task>
-    <task id="LOCAL-00164" summary="Implement add transfer date">
-      <option name="closed" value="true" />
-      <created>1793391496167</created>
-      <option name="number" value="00164" />
-      <option name="presentableId" value="LOCAL-00164" />
-      <option name="project" value="LOCAL" />
-      <updated>1793391496167</updated>
+      <workItem from="1795723719672" duration="4634000" />
     </task>
     <task id="LOCAL-00165" summary="Implement add loan date">
       <option name="closed" value="true" />
@@ -650,7 +643,15 @@
       <option name="project" value="LOCAL" />
       <updated>1795726992065</updated>
     </task>
-    <option name="localTasksCounter" value="213" />
+    <task id="LOCAL-00213" summary="Implement DOMContentLoaded and load event listeners">
+      <option name="closed" value="true" />
+      <created>1795728476603</created>
+      <option name="number" value="00213" />
+      <option name="presentableId" value="LOCAL-00213" />
+      <option name="project" value="LOCAL" />
+      <updated>1795728476603</updated>
+    </task>
+    <option name="localTasksCounter" value="214" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -668,7 +669,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement DOM class manipulation using classList" />
     <MESSAGE value="Implement scrolling to page sections" />
     <MESSAGE value="Implement smooth scrolling to page sections" />
     <MESSAGE value="Refactor smooth scrolling using scrollIntoView" />
@@ -693,6 +693,7 @@
     <MESSAGE value="Implement slider navigation with keyboard arrow keys" />
     <MESSAGE value="Implement slider pagination with clickable navigation dots" />
     <MESSAGE value="Refactor slider component" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor slider component" />
+    <MESSAGE value="Implement DOMContentLoaded and load event listeners" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement DOMContentLoaded and load event listeners" />
   </component>
 </project>
