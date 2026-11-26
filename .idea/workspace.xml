@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement slider component with navigation controls">
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement slider navigation with keyboard arrow keys">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -257,15 +258,7 @@
       <workItem from="1795203537776" duration="3101000" />
       <workItem from="1795373542510" duration="2557000" />
       <workItem from="1795546109883" duration="5362000" />
-      <workItem from="1795723719672" duration="137000" />
-    </task>
-    <task id="LOCAL-00161" summary="Implement working with date">
-      <option name="closed" value="true" />
-      <created>1793303836495</created>
-      <option name="number" value="00161" />
-      <option name="presentableId" value="LOCAL-00161" />
-      <option name="project" value="LOCAL" />
-      <updated>1793303836495</updated>
+      <workItem from="1795723719672" duration="1816000" />
     </task>
     <task id="LOCAL-00162" summary="Implement current date and time">
       <option name="closed" value="true" />
@@ -651,7 +644,15 @@
       <option name="project" value="LOCAL" />
       <updated>1795551456918</updated>
     </task>
-    <option name="localTasksCounter" value="210" />
+    <task id="LOCAL-00210" summary="Implement slider navigation with keyboard arrow keys">
+      <option name="closed" value="true" />
+      <created>1795723860734</created>
+      <option name="number" value="00210" />
+      <option name="presentableId" value="LOCAL-00210" />
+      <option name="project" value="LOCAL" />
+      <updated>1795723860735</updated>
+    </task>
+    <option name="localTasksCounter" value="211" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -669,7 +670,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement delete elements" />
     <MESSAGE value="Implement DOM styling and computed style manipulation" />
     <MESSAGE value="Implement DOM attribute manipulation and data attribute access" />
     <MESSAGE value="Implement DOM class manipulation using classList" />
@@ -694,6 +694,7 @@
     <MESSAGE value="Fixing a small scrolling bug" />
     <MESSAGE value="Implement lazy loading images" />
     <MESSAGE value="Implement slider component with navigation controls" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement slider component with navigation controls" />
+    <MESSAGE value="Implement slider navigation with keyboard arrow keys" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement slider navigation with keyboard arrow keys" />
   </component>
 </project>
