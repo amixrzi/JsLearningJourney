@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement lazy loading images">
-      <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/index.html" afterDir="false" />
+    <list default="true" id="0bc2c491-3065-425a-90bc-91abf0d7dfa3" name="Changes" comment="Implement slider component with navigation controls">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-Advanced-DOM-Bankist/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -256,15 +256,8 @@
       <workItem from="1795118695032" duration="915000" />
       <workItem from="1795203537776" duration="3101000" />
       <workItem from="1795373542510" duration="2557000" />
-      <workItem from="1795546109883" duration="4939000" />
-    </task>
-    <task id="LOCAL-00160" summary="Implement create a date">
-      <option name="closed" value="true" />
-      <created>1793301603035</created>
-      <option name="number" value="00160" />
-      <option name="presentableId" value="LOCAL-00160" />
-      <option name="project" value="LOCAL" />
-      <updated>1793301603036</updated>
+      <workItem from="1795546109883" duration="5362000" />
+      <workItem from="1795723719672" duration="137000" />
     </task>
     <task id="LOCAL-00161" summary="Implement working with date">
       <option name="closed" value="true" />
@@ -650,7 +643,15 @@
       <option name="project" value="LOCAL" />
       <updated>1795548166428</updated>
     </task>
-    <option name="localTasksCounter" value="209" />
+    <task id="LOCAL-00209" summary="Implement slider component with navigation controls">
+      <option name="closed" value="true" />
+      <created>1795551456918</created>
+      <option name="number" value="00209" />
+      <option name="presentableId" value="LOCAL-00209" />
+      <option name="project" value="LOCAL" />
+      <updated>1795551456918</updated>
+    </task>
+    <option name="localTasksCounter" value="210" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -668,7 +669,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implement creating and inserting elements" />
     <MESSAGE value="Implement delete elements" />
     <MESSAGE value="Implement DOM styling and computed style manipulation" />
     <MESSAGE value="Implement DOM attribute manipulation and data attribute access" />
@@ -693,6 +693,7 @@
     <MESSAGE value="Implement reveal section" />
     <MESSAGE value="Fixing a small scrolling bug" />
     <MESSAGE value="Implement lazy loading images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement lazy loading images" />
+    <MESSAGE value="Implement slider component with navigation controls" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement slider component with navigation controls" />
   </component>
 </project>

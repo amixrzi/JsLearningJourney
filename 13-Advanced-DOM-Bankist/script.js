@@ -253,3 +253,8 @@ const prevSlide = function () {
 };
 btnRight.addEventListener('click', nextSlide);
 btnLeft.addEventListener('click', prevSlide);
+
+document.addEventListener('keydown', function (e) {
+  e.key === 'ArrowLeft' && prevSlide();
+  e.key === 'ArrowRight' && nextSlide();
+});
